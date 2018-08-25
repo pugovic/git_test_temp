@@ -1,0 +1,2 @@
+privet
+ second line with n
