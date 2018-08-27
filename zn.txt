@@ -1,0 +1,1536 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="uk" dir="ltr" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<meta charset="utf-8">
+<meta content="origin" id="mref" name="referrer">
+
+<meta name="viewport" content="width=1360">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="msvalidate.01" content="4CBEB3E02C0CD8C81B0ABF7A3D93078C" />
+<meta name="google-site-verification" content="-sDokMhGChxwDRnCwWdukW884LY_87o0C153LH8K9aM" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script>window._io_config = window._io_config || {};
+window._io_config['0.2.0'] = window._io_config['0.2.0'] || [];
+window._io_config['0.2.0'].push({"page_url":"https:\/\/znaj.ua\/","page_title":"\u0413\u043e\u043b\u043e\u0432\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u0438","page_type":"default","page_language":"uk","page_url_canonical":"https:\/\/znaj.ua\/"});
+
+(function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id; js.async = true;
+    js.src = 'https://cdn.onthe.io/io.js/BKcf6LP5eVKG';
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'io-cdnjs'));</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/znaj.ua\/","name":"znaj.ua","logo":"https:\/\/znaj.ua\/sites\/all\/themes\/custom_bootstrap\/logo.png","address":{"@type":"PostalAddress","streetAddress":"\u0428\u043e\u0442\u0430 \u0420\u0443\u0441\u0442\u0430\u0432\u0435\u043b\u0438, 22\u0430","addressLocality":"\u0428\u043e\u0442\u0430 \u0420\u0443\u0441\u0442\u0430\u0432\u0435\u043b\u0438, 22\u0430"},"contactPoint":{"@type":"ContactPoint","telephone":"+3805010043543","contactType":"customer service"},"sameAs":["http:\/\/www.facebook.com\/znaj.ua","http:\/\/instagram.com\/znajua\/?hl=ru","https:\/\/viber.com\/znajua","http:\/\/t.me\/znajua"],"potentialAction":{"@type":"SearchAction","target":"https:\/\/znaj.ua\/search?search=={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="apple-touch-icon" href="https://znaj.ua/sites/default/files/znaj_114x114.png" type="image/png" />
+<link rel="shortcut icon" href="https://znaj.ua/sites/default/files/favicon-32x32.png" type="image/png" />
+<link href="https://znaj.ua/ru" rel="alternate" hreflang="ru" />
+<link href="https://znaj.ua/" rel="alternate" hreflang="uk" />
+<link rel="canonical" href="https://znaj.ua/" />
+<link rel="shortlink" href="https://znaj.ua/" />
+<meta property="og:site_name" content="znaj.ua" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://znaj.ua/" />
+<meta property="og:title" content="znaj.ua" />
+<meta property="og:description" content="Інформаційний портал Znaj.ua" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://znaj.ua/" />
+<meta name="twitter:title" content="znaj.ua" />
+<meta name="twitter:description" content="Інформаційний портал Znaj.ua" />
+<meta itemprop="name" content="Головні новини" />
+<title>Інформаційний портал Znaj.ua</title>
+<link type="text/css" rel="stylesheet" href="https://znaj.ua/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://znaj.ua/sites/default/files/css/css_5f4mTlQnReQiD_8uSxMd2TX4P_QtCNAWVM8tXSUfjo8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://znaj.ua/sites/default/files/css/css_AsX41RgxPaV7GKHPQAbvWcqcrmESKF9_RRVs3Q2MHoM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://znaj.ua/sites/default/files/css/css_uHZeVDpLu2srIy88g8LMFU02W-CQy8Un5NZOXRQcC6I.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://znaj.ua/sites/default/files/css/css_NHDv7i3lqeuoVlR51NZtrUmsE09OFnM5lnpV_D_xs10.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://znaj.ua/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://znaj.ua/sites/default/files/css/css_5mfRnfXmx7Wc0NGvVyZa96SdDjk0XUy8HfCP5AOL5e8.css" media="all" />
+
+<!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<script src="https://znaj.ua/sites/default/files/js/js_Rqbe0LH82aavUtOvrdXpaeYEQ1hZxTmemD63MlEbvnM.js"></script>
+<script src="https://znaj.ua/sites/default/files/js/js_DkVxTaerWhitAUZcqcw_7midbiGD2VeaL58cUdR96ho.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="https://znaj.ua/sites/default/files/js/js_j2FRBd8dG1BEAV-WfmuCbfiHAu6L7KaifXsAc8zriyU.js"></script>
+<script src="https://znaj.ua/sites/default/files/js/js_uw4VTljwMDmBnEp482OMWvGuA7iQRTifBj61vUm_A0Y.js"></script>
+<script src="https://znaj.ua/sites/default/files/js/js_bAPrGMvyKPRuvzlg04dz5-Lt74bOQ0IvR7r9ni3cfhQ.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"custom_bootstrap","theme_token":"IS2LU6fl_988Xdjr_jPwNAKcgG2a0pP2unsp0l6S5WE","jquery_version":"1.8","js":{"sites\/default\/files\/minify\/flexslider.load.min.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"sites\/default\/files\/minify\/jquery.once.1.2.min.js":1,"sites\/default\/files\/minify\/drupal.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.datepicker.min.js":1,"sites\/default\/files\/minify\/locale.datepicker.1.10.2.min.js":1,"sites\/default\/files\/minify\/jquery.timeentry.pack.1.4.7.min.js":1,"sites\/default\/files\/minify\/ajax.7.44.min.js":1,"sites\/default\/files\/minify\/jquery_update.0.0.1.min.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/default\/files\/minify\/admin_devel.min.js":1,"sites\/default\/files\/minify\/custom_dashboard_release.min.js":1,"sites\/default\/files\/minify\/uk_A5gfF2i-glD4U0pMX83MwBIurmlZNIZP9UpgCAKzBbk.min.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/default\/files\/minify\/colorbox.min.js":1,"sites\/default\/files\/minify\/colorbox_style.min.js":1,"sites\/default\/files\/minify\/colorbox_load.min.js":1,"sites\/all\/modules\/contrib\/video\/js\/video.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/default\/files\/minify\/form.min.js":1,"sites\/default\/files\/minify\/collapse.min.js":1,"sites\/default\/files\/minify\/date_popup.min.js":1,"sites\/default\/files\/minify\/responsive_menus_simple.min.js":1,"sites\/default\/files\/minify\/progress.7.44.min.js":1,"sites\/all\/libraries\/videojs\/video.min.js":1,"sites\/default\/files\/minify\/videojs.ima.min.js":1,"sites\/all\/libraries\/videojs\/videojs.ads.min.js":1,"sites\/default\/files\/minify\/jquery.appear.min.js":1,"sites\/all\/libraries\/jquery-cookie\/jquery.cookie.js":1,"sites\/default\/files\/minify\/hide_submit.min.js":1,"sites\/default\/files\/minify\/colorbox_node.min.js":1,"sites\/default\/files\/minify\/basket.min.js":1,"sites\/default\/files\/minify\/loading.min.js":1,"sites\/all\/themes\/custom_bootstrap\/js\/functions.js":1,"sites\/all\/themes\/custom_bootstrap\/js\/fixes.js":1,"sites\/all\/themes\/custom_bootstrap\/js\/catfish.js":1,"sites\/all\/themes\/custom_bootstrap\/js\/catfish-fullscreen.js":1,"sites\/all\/themes\/custom_bootstrap\/js\/edit_news_block.js":1},"css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/jquery.timeentry.css":1,"sites\/all\/modules\/contrib\/colorbox_node\/colorbox_node.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/domain\/domain_nav\/domain_nav.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/video_filter\/video_filter.css":1,"sites\/all\/modules\/contrib\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/video\/css\/video.css":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"modules\/locale\/locale.css":1,"sites\/all\/modules\/contrib\/social_media_links\/social_media_links.css":1,"sites\/all\/modules\/contrib\/responsive_menus\/styles\/responsive_menus_simple\/css\/responsive_menus_simple.css":1,"sites\/all\/modules\/contrib\/addtoany\/addtoany.css":1,"sites\/all\/libraries\/videojs\/video-js.min.css":1,"sites\/all\/libraries\/videojs\/videojs.ima.css":1,"sites\/all\/modules\/contrib\/hide_submit\/css\/hide_submit.css":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/custom_bootstrap\/css\/print.css":1,"sites\/all\/themes\/custom_bootstrap\/css\/style-by-less.css":1,"sites\/all\/themes\/custom_bootstrap\/css\/style.css":1,"sites\/all\/themes\/custom_bootstrap\/css\/style-admin.css":1,"sites\/all\/themes\/custom_bootstrap\/css\/znajMain.css":1,"sites\/all\/themes\/custom_bootstrap\/css\/slick.css":1,"sites\/all\/themes\/custom_bootstrap\/css\/catfish.css":1,"sites\/all\/themes\/custom_bootstrap\/css\/clutch-block.css":1}},"colorbox":{"opacity":"0.85","current":"{current} \u0437 {total}","previous":"\u00ab \u041f\u043e\u043f\u0435\u0440\u0435\u0434\u043d\u044f","next":"\u041d\u0430\u0441\u0442\u0443\u043f\u043d\u0430 \u00bb","close":"\u0417\u0430\u043a\u0440\u0438\u0442\u0438","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"better_exposed_filters":{"views":{"frontpage_views":{"displays":{"page":{"filters":[]},"block_3":{"filters":[]},"block_1":{"filters":[]},"block_2":{"filters":[]}}},"show_business":{"displays":{"block":{"filters":[]}}}}},"flexslider":{"optionsets":{"default":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":400,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"fade","slideshow":true,"slideshowSpeed":"4000","directionNav":true,"controlNav":false,"prevText":"\u041f\u043e\u043f\u0435\u0440\u0435\u0434\u043d\u0456\u0439","nextText":"\u041d\u0430\u0441\u0442\u0443\u043f\u043d\u0438\u0439","pausePlay":false,"pauseText":"\u041f\u0440\u0438\u0437\u0443\u043f\u0438\u043d\u0438\u0442\u0438","playText":"\u0412\u0456\u0434\u0442\u0432\u043e\u0440\u0438\u0442\u0438","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"instances":{"flexslider-1":"default"}},"hide_submit":{"hide_submit_status":true,"hide_submit_method":"disable","hide_submit_css":"hide-submit-disable","hide_submit_abtext":"","hide_submit_atext":"","hide_submit_hide_css":"hide-submit-processing","hide_submit_hide_text":"Processing...","hide_submit_indicator_style":"expand-left","hide_submit_spinner_color":"#000","hide_submit_spinner_lines":12,"hide_submit_hide_fx":false,"hide_submit_reset_time":5000},"jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":"1"}}},"datePopup":{"edit-created-datepicker-popup-0":{"func":"datepicker","settings":{"changeMonth":true,"changeYear":true,"autoPopUp":"focus","closeAtTop":false,"speed":"immediate","firstDay":1,"dateFormat":"mm\/dd\/yy","yearRange":"-3:+0","fromTo":false,"defaultDate":"0y"}}},"urlIsAjaxTrusted":{"\/search":true},"responsive_menus":[{"toggler_text":"\u2630 Menu","selectors":["#main-menu"],"media_size":768,"absolute":true,"remove_attributes":true,"responsive_menus_style":"responsive_menus_simple"}],"colorbox_node":{"width":"600px","height":"600px"},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":0,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+
+<!--[if lt IE 9]>
+	<link rel="stylesheet" href="https://rawgit.com/codefucker/finalReject/master/reject/reject.css" media="all" />
+	<script type="text/javascript" src="https://rawgit.com/codefucker/finalReject/master/reject/reject.min.js"></script>
+  <![endif]-->
+
+<style>
+        #block-custom-block-header-footer-block #edit-field-category-wrapper, #block-custom-block-header-footer-block #edit-created-wrapper {
+            display: none !important;
+        }
+        .alert-danger {
+            display:none;
+        }
+    </style>
+<script src="https://cdn.gravitec.net/storage/e32ccad07c3e8179b6506ff2034b130e/client.js" async></script>
+
+<link rel="dns-prefetch" href="//aixcdn.com">
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KVN9RKH');</script>
+
+
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '139419536690902');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=139419536690902&ev=PageView&noscript=1"
+  /></noscript>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108263001-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-108263001-1');
+</script>
+
+
+<script>
+    /*
+     *  Add title to node news page
+     */
+    (function ($) {
+        $(function () {
+            var block = $('.branding-box');
+            if (!block.length) {
+                return
+            }
+            var offset_top = block.offset().top;
+            var block_height = 1080;
+            var all_block_height = offset_top + block_height;
+            var window_height = $(window).height();
+            var scroll_max = all_block_height - window_height;
+
+            $(window).scroll(function () {
+                if ($(window).scrollTop() > scroll_max) {
+                    block.addClass('branding-fixed');
+                } else {
+                    block.removeClass('branding-fixed');
+                }
+            });
+
+            $(window).resize(function () {
+                var window_height = $(window).height();
+                var scroll_max = all_block_height - window_height;
+            });
+        });
+    })($);
+</script>
+<style>
+    .branding-fixed {
+        position: fixed;
+        bottom: 0;
+        height: auto;
+        top: auto !important;
+    }
+</style>
+<script>
+    (function ($) {
+        $(function () {
+            $('.node-news.view-mode-full .field-name-field-description .field-item').wrapAll('<div class="article-format"></div>');
+        });
+    })($);
+</script>
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+        googletag.cmd.push(function () {
+            googletag.defineSlot('/21624131092/znaj_branding_main', [2000, 1300], 'div-gpt-ad-branding').addService(googletag.pubads());
+            googletag.pubads().collapseEmptyDivs();
+            googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+                if ((event.slot.getSlotElementId() == "div-gpt-ad-branding") && !event.isEmpty) {
+                    $('body').addClass('branding');
+                }
+            });
+            googletag.enableServices();
+        });
+    </script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node domain-znaj-ua i18n-uk">
+<div id="skip-link">
+<a href="#main-content" class="element-invisible element-focusable">Перейти до основного вмісту</a>
+</div>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KVN9RKH"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<div id='div-gpt-ad-branding' class="branding-box">
+<script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-branding'); });
+      </script>
+</div>
+
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/21624131092/znaj_fullscreen_ros', [1024, 768], 'div-gpt-ad-catfish-fullscreen').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+      googletag.pubads().collapseEmptyDivs();
+      googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+          if ((event.slot.getSlotElementId() == "div-gpt-ad-catfish-fullscreen") && !event.isEmpty) {
+              init_catfish_fullscreen();
+          }
+      });
+      googletag.enableServices();
+  });
+</script>
+
+<div id="znaj-catfish-fullscreen-banner" class="container-catfish hidden-banners full-screen-catfish">
+<div class="column-catfish">
+<div class="item-catfish">
+<div class='zoom-crop-wrapper'>
+
+<div id='div-gpt-ad-catfish-fullscreen'>
+<script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-catfish-fullscreen'); });
+          </script>
+</div>
+<a class="catfish-close-button" href="#"></a>
+</div>
+</div>
+</div>
+</div>
+<header id="navbar" role="banner" class="navbar navbar-default">
+<div class="container">
+<div class="region region-header">
+<section id="block-custom-block-footer-block-counter" class="block block-custom-block clearfix">
+<div class="content-counter-block"><div class="bigmir">
+
+</div><div class="liveinternet"><script type="text/javascript">
+          document.write("<a href='//www.liveinternet.ru/click' "+
+            "target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+            escape(document.referrer)+((typeof(screen)=="undefined")?"":
+            ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+              screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+            ";"+Math.random()+
+            "' alt='' title='LiveInternet: number of pageviews for 24 hours,"+
+            " of visitors for 24 hours and for today is shown' "+
+            "border='0' width='88' height='31'><\/a>")
+        </script></div></div>
+</section> 
+<section id="block-locale-language" class="block block-locale col-sm-3 clearfix">
+<h2 class="block-title">Мова</h2>
+<ul class="language-switcher-locale-url"><li class="uk first active"><a href="/" class="language-link active" xml:lang="uk" hreflang="uk">Укр</a></li>
+<li class="ru last"><a href="/ru" class="language-link" xml:lang="ru" hreflang="ru">Рус</a></li>
+</ul>
+</section> 
+<section id="block-custom-block-header-footer-block" class="block block-custom-block clearfix">
+<div class="two-50 at-panel panel-display clearfix" id="mini-panel-header_info_block">
+<div class="region region-two-50-top region-conditional-stack">
+<div class="region-inner clearfix">
+<div class="panel-pane pane-block pane-custom-exchange-rates-exchange-rates pane-custom-exchange-rates">
+<div class="pane-content">
+<div class="exchange-rates">
+<div class="exchange-rates-item EUR">
+<span class="unicode">€</span><span class="buy">31.5800</span> </div>
+<div class="exchange-rates-item USD">
+<span class="unicode">$</span><span class="buy">27.2400</span> </div>
+</div>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-page-logo">
+<div class="pane-content">
+<a href="/" rel="home" id="logo" title="Головна"><img src="https://znaj.ua/sites/all/themes/custom_bootstrap/logo.png" alt="Головна" /></a> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-custom-exchange-rates-sport-logo pane-custom-exchange-rates">
+<div class="pane-content">
+<a href="https://sport.znaj.ua/?utm_source=znajua&utm_medium=logo&utm_campaign=header_znajua" rel="sport home" id="logo-sport" title="ZNAJ.SPORT">
+<img src="/sites/all/modules/custom/custom_exchange_rates/images/logo-sport.png" alt="Спортивні">
+</a>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-social-media-links-social-media-links pane-social-media-links">
+<div class="pane-content">
+<ul class="social-media-links platforms inline horizontal"><li class="facebook first"><a href="https://www.facebook.com/znaj.ua" title="Facebook"><img src="https://znaj.ua/sites/all/modules/contrib/social_media_links/libraries/elegantthemes/PNG/facebook.png" alt="Facebook значок" /></a></li><li class="rss"><a href="https://znaj.ua/rss/rss.xml" title="RSS"><img src="https://znaj.ua/sites/all/modules/contrib/social_media_links/libraries/elegantthemes/PNG/rss.png" alt="RSS значок" /></a></li><li class="telegram"><a href="https://t.me/znajua" title="Telegram"><img src="https://znaj.ua/sites/all/themes/custom_bootstrap/images/telegram.png" alt="Telegram значок" /></a></li><li class="instagram"><a href="https://www.instagram.com/znajua/?hl=ru" title="Instagram"><img src="https://znaj.ua/sites/all/modules/contrib/social_media_links/libraries/elegantthemes/PNG/instagram.png" alt="Instagram значок" /></a></li><li class="viber last"><a href="https://viber.com/znajua" title="Viber"><img src="https://znaj.ua/sites/all/themes/custom_bootstrap/images/viber.png" alt="Viber значок" /></a></li></ul> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-views-exp-search-api-page pane-views">
+<div class="pane-content">
+<form action="/search" method="get" id="views-exposed-form-search-api-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+<div class="views-exposed-widgets clearfix">
+<div id="edit-search-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+<div class="views-widget">
+<div class="form-type-textfield form-item-search form-item form-group">
+<input class="form-control form-text" type="text" id="edit-search" name="search" value="" size="30" maxlength="128" />
+</div>
+</div>
+</div>
+<div class="views-exposed-widget views-submit-button">
+<button class="btn btn-info form-submit" id="edit-submit-search-api" name="" value="Застосувати" type="submit">Застосувати</button>
+</div>
+</div>
+</div>
+</div></form> </div>
+</div>
+</div>
+</div>
+<div class="region region-two-50-first">
+<div class="region-inner clearfix">
+</div>
+</div>
+<div class="region region-two-50-second">
+<div class="region-inner clearfix">
+</div>
+</div>
+<div class="region region-two-50-bottom region-conditional-stack">
+<div class="region-inner clearfix">
+<div class="panel-pane pane-block pane-menu-block-4 pane-menu-block">
+<div class="pane-content">
+<div class="menu-block-wrapper menu-block-4 menu-name-main-menu parent-mlid-0 menu-level-1">
+<ul class="menu nav"><li class="first leaf menu-mlid-3684"><a href="/">Головна</a></li>
+<li class="leaf menu-mlid-3685"><a href="/news/politics">Політика</a></li>
+<li class="leaf menu-mlid-3686"><a href="/news/society">Суспільство</a></li>
+<li class="leaf menu-mlid-3687"><a href="/news/capital">Столиця</a></li>
+<li class="leaf menu-mlid-3691"><a href="/news/events">Події</a></li>
+<li class="leaf menu-mlid-3692"><a href="/news/popcorn">Попкорн</a></li>
+<li class="leaf menu-mlid-3688"><a href="/news/world">Світ</a></li>
+<li class="leaf menu-mlid-3690"><a href="/news/show-business">Шоу-бізнес</a></li>
+<li class="leaf menu-mlid-3693"><a href="/news/science">Наука</a></li>
+<li class="last expanded menu-mlid-3694 show-more dropdown" id="show-more"><a href="/" class="dropdown-toggle">Інше <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-3695"><a href="/news/editor-choice">Вибір редакції</a></li>
+<li class="leaf menu-mlid-3696"><a href="/news/interview">Інтерв&#039;ю</a></li>
+<li class="leaf menu-mlid-3697"><a href="/news/exclusive">Ексклюзив</a></li>
+<li class="leaf menu-mlid-3698"><a href="/news/techno">Техно</a></li>
+<li class="leaf menu-mlid-3699"><a href="/news/history">Історія</a></li>
+<li class="leaf menu-mlid-3700"><a href="/news/investigation">Розслідування</a></li>
+<li class="leaf menu-mlid-5598"><a href="/news/tests">Тести</a></li>
+<li class="last leaf menu-mlid-6161"><a href="/contacts">Контакти</a></li>
+</ul></li>
+</ul></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section> 
+</div>
+</div>
+</header>
+<div class="top-menu-main">
+<div class="region region-top-menu">
+<section id="block-custom-block-previous-last-news" class="block block-custom-block clearfix">
+<div class="container-last-previous-news"><div class="index-news-1"><div class="view view-news-category-previous-last view-id-news_category_previous_last view-display-id-block_1 view-dom-id-a86bf7efddc408b9c70d6041c115bc85">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image-1"> <div class="field-content"><a href="/popcorn/tyhon-strasnyj-26-serpnya-chogo-kategorychno-ne-mozhna-robyty"><img src="https://znaj.ua/sites/default/files/styles/search/public/media/news/2018/08/34/belarus-planiruet-poluchit-ne-menee-9-mln-t-zerna-novogo-urozhaya.jpg?itok=NdgldQ2R" width="145" height="97" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/popcorn/tyhon-strasnyj-26-serpnya-chogo-kategorychno-ne-mozhna-robyty">Тихон Страсний 26 серпня: чого категорично не можна робити</a></span> </div>
+<div class="views-field views-field-field-category"> <div class="field-content">Попкорн</div> </div>
+<div class="views-field views-field-created"> <span class="field-content">26.08.2018</span> </div> </div>
+</div>
+</div></div><div class="index-news-2"><div class="view view-news-category-previous-last view-id-news_category_previous_last view-display-id-block view-dom-id-a2a20ee200b3b3425645cb0dfdbb57ab">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image-1"> <div class="field-content"><a href="/interview/desyatky-tysyach-na-misyac-yevropejski-eksperty-pidrahuvaly-vartist-zhyttya-u-kyyevi"><img src="https://znaj.ua/sites/default/files/styles/search/public/media/news/2018/07/30/1501941276-7323.jpg?itok=M6AdHR__" width="145" height="97" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/interview/desyatky-tysyach-na-misyac-yevropejski-eksperty-pidrahuvaly-vartist-zhyttya-u-kyyevi">Десятки тисяч на місяць: європейські експерти підрахували вартість життя у Києві</a></span> </div>
+<div class="views-field views-field-field-category"> <div class="field-content">Інтерв&#039;ю, Суспільство</div> </div>
+<div class="views-field views-field-created"> <span class="field-content">26.07.2018</span> </div> </div>
+</div>
+</div></div><div class="index-news-3"><div class="view view-news-category-previous-last view-id-news_category_previous_last view-display-id-block view-dom-id-5956027f18eacf79dca15ee51cb224d7">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image-1"> <div class="field-content"><a href="/history/zagynuly-v-odnu-myt-tayemnycya-pradavnogo-idealnogo-mista-mohendzho-daro"><img src="https://znaj.ua/sites/default/files/styles/search/public/media/news/2018/08/34/2448829158d4aa589ae8c0b149bb4676.jpg?itok=GnjE5xYR" width="145" height="97" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/history/zagynuly-v-odnu-myt-tayemnycya-pradavnogo-idealnogo-mista-mohendzho-daro">Загинули в одну мить: таємниця прадавнього ідеального міста Мохенджо-Даро</a></span> </div>
+<div class="views-field views-field-field-category"> <div class="field-content">Історія</div> </div>
+<div class="views-field views-field-created"> <span class="field-content">26.08.2018</span> </div> </div>
+</div>
+</div></div><div class="index-news-4"><div class="view view-news-category-previous-last view-id-news_category_previous_last view-display-id-block view-dom-id-82f066f57a0206b60cd236ff92d0a248">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image-1"> <div class="field-content"><a href="/popcorn/nezrozumili-slidy-motoroshnyj-monstr-hodyt-po-dnu-tyhogo-okeanu"><img src="https://znaj.ua/sites/default/files/styles/search/public/media/news/2018/08/34/1530970096_sergey-chesnokov-sea-monster-1.jpg?itok=h_DWDumn" width="145" height="97" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/popcorn/nezrozumili-slidy-motoroshnyj-monstr-hodyt-po-dnu-tyhogo-okeanu">Незрозумілі сліди: моторошний монстр ходить по дну Тихого океану</a></span> </div>
+<div class="views-field views-field-field-category"> <div class="field-content">Вибір редакції, Попкорн</div> </div>
+<div class="views-field views-field-created"> <span class="field-content">26.08.2018</span> </div> </div>
+</div>
+</div></div><div class="index-news-5"><div class="view view-news-category-previous-last view-id-news_category_previous_last view-display-id-block view-dom-id-db3a40e01c7fde9ba8601017c4f461c0">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image-1"> <div class="field-content"><a href="/exclusive/rozluchennya-v-ukrayini-pokrokova-instrukciya-yak-projty-pekelnyj-shlyah"><img src="https://znaj.ua/sites/default/files/styles/search/public/media/news/2018/08/31/rozluchennya2_1.jpeg?itok=LCE6duBj" width="145" height="97" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/exclusive/rozluchennya-v-ukrayini-pokrokova-instrukciya-yak-projty-pekelnyj-shlyah">Розлучення в Україні: покрокова інструкція, як пройти пекельний шлях </a></span> </div>
+<div class="views-field views-field-field-category"> <div class="field-content">Вибір редакції, Ексклюзив, Суспільство</div> </div>
+<div class="views-field views-field-created"> <span class="field-content">02.08.2018</span> </div> </div>
+</div>
+</div></div><div class="index-news-6"><div class="view view-news-category-previous-last view-id-news_category_previous_last view-display-id-block view-dom-id-2777fbeb9a788b349b63026f574889f9">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image-1"> <div class="field-content"><a href="/science/vcheni-byut-na-spoloh-asteroyid-vbyvcya-mchyt-na-zemlyu"><img src="https://znaj.ua/sites/default/files/styles/search/public/media/news/2018/08/34/1515224166_25019029_160811928014247_9166394919101661184_n.jpg?itok=SiEjcySP" width="145" height="97" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/science/vcheni-byut-na-spoloh-asteroyid-vbyvcya-mchyt-na-zemlyu">Вчені б&#039;ють на сполох: астероїд-вбивця мчить на Землю</a></span> </div>
+<div class="views-field views-field-field-category"> <div class="field-content">Наука</div> </div>
+<div class="views-field views-field-created"> <span class="field-content">25.08.2018</span> </div> </div>
+</div>
+</div></div><div class="index-news-7"><div class="view view-news-category-previous-last view-id-news_category_previous_last view-display-id-block view-dom-id-1513ceb1c1427bde2cdee3781e6b8ec0">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image-1"> <div class="field-content"><a href="/events/u-centri-kyyeva-goriv-elitnyj-restoran-foto"><img src="https://znaj.ua/sites/default/files/styles/search/public/media/news/2018/08/34/597c9d767b921-2_1200.jpg?itok=FzMSvBpT" width="145" height="97" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/u-centri-kyyeva-goriv-elitnyj-restoran-foto">У центрі Києва горів елітний ресторан: фото</a></span> </div>
+<div class="views-field views-field-field-category"> <div class="field-content">Події</div> </div>
+<div class="views-field views-field-created"> <span class="field-content">25.08.2018</span> </div> </div>
+</div>
+</div></div><div class="index-news-8"><div class="view view-news-category-previous-last view-id-news_category_previous_last view-display-id-block view-dom-id-99a4d213e794980633da6c6208e4f358">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image-1"> <div class="field-content"><a href="/politics/povitryani-angely-vsu-pokazaly-vsyu-mic-ukrayinskoyi-aviaciyi-video"><img src="https://znaj.ua/sites/default/files/styles/search/public/media/news/2018/08/34/img_4594_1.jpg?itok=u4_oZ4hV" width="145" height="97" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/politics/povitryani-angely-vsu-pokazaly-vsyu-mic-ukrayinskoyi-aviaciyi-video">Повітряні ангели ВСУ показали всю міць української авіації: відео</a></span> </div>
+<div class="views-field views-field-field-category"> <div class="field-content">Політика</div> </div>
+<div class="views-field views-field-created"> <span class="field-content">26.08.2018</span> </div> </div>
+</div>
+</div></div><div class="index-news-9"><div class="view view-news-category-previous-last view-id-news_category_previous_last view-display-id-block view-dom-id-2cb6d0afc1addbf6dc4502bea90a757d">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image-1"> <div class="field-content"><a href="/popcorn/progresyvnyj-shef-dozvolyv-pracyuvaty-lyshe-4-dni-na-tyzhden-i-os-sho-iz-cogo-vyjshlo"><img src="https://znaj.ua/sites/default/files/styles/search/public/media/news/2018/08/34/ofys_daaaa.jpg?itok=80cnhVbz" width="145" height="97" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/popcorn/progresyvnyj-shef-dozvolyv-pracyuvaty-lyshe-4-dni-na-tyzhden-i-os-sho-iz-cogo-vyjshlo">Прогресивний шеф дозволив працювати лише 4 дні на тиждень. І ось що із цього вийшло
+</a></span> </div>
+<div class="views-field views-field-field-category"> <div class="field-content">Попкорн</div> </div>
+<div class="views-field views-field-created"> <span class="field-content">26.08.2018</span> </div> </div>
+</div>
+</div></div><div class="index-news-10"><div class="view view-news-category-previous-last view-id-news_category_previous_last view-display-id-block view-dom-id-c61369b1f28223683826081a36998dfc">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image-1"> <div class="field-content"><a href="/investigation/ocinit-dodatok-u-lucenka-serjozno-ozolotylysya-na-fantomnomu-vidomstvi"><img src="https://znaj.ua/sites/default/files/styles/search/public/media/news/2018/05/22/original_1.jpg?itok=QiZjwoZG" width="145" height="97" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/investigation/ocinit-dodatok-u-lucenka-serjozno-ozolotylysya-na-fantomnomu-vidomstvi">Оцініть додаток: у Луценка серйозно озолотилися на фантомному відомстві</a></span> </div>
+<div class="views-field views-field-field-category"> <div class="field-content">Розслідування</div> </div>
+<div class="views-field views-field-created"> <span class="field-content">28.05.2018</span> </div> </div>
+</div>
+</div></div><div class="index-news-11"><div class="view view-news-category-previous-last view-id-news_category_previous_last view-display-id-block view-dom-id-40872a522aae7abecf4e724af37c9a4c">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image-1"> <div class="field-content"><a href="/world/karma-v-chystomu-vyglyadi-zlodij-namagavsya-rozbyty-sklo-ale-shos-pishlo-ne-tak"><img src="https://znaj.ua/sites/default/files/styles/search/public/media/news/2018/08/34/motorcycle-theft-uk-1.jpg?itok=ewx2QOfR" width="145" height="97" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/world/karma-v-chystomu-vyglyadi-zlodij-namagavsya-rozbyty-sklo-ale-shos-pishlo-ne-tak">Карма в чистому вигляді: злодій намагався розбити скло, але щось пішло не так</a></span> </div>
+<div class="views-field views-field-field-category"> <div class="field-content">Світ</div> </div>
+<div class="views-field views-field-created"> <span class="field-content">26.08.2018</span> </div> </div>
+</div>
+</div></div><div class="index-news-12"><div class="view view-news-category-previous-last view-id-news_category_previous_last view-display-id-block view-dom-id-1ae94def05b9018ec952f6996e91f9d9">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image-1"> <div class="field-content"><a href="/capital/vidbijnyk-zupynyv-nichnogo-gonshyka-na-bmw-slabkoduhym-ne-dyvytysya"><img src="https://znaj.ua/sites/default/files/styles/search/public/media/news/2018/08/34/dtp_2.jpg?itok=3ckoCsDE" width="145" height="97" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/capital/vidbijnyk-zupynyv-nichnogo-gonshyka-na-bmw-slabkoduhym-ne-dyvytysya">Відбійник зупинив нічного гонщика на BMW, слабкодухим не дивитися</a></span> </div>
+<div class="views-field views-field-field-category"> <div class="field-content">Столиця</div> </div>
+<div class="views-field views-field-created"> <span class="field-content">26.08.2018</span> </div> </div>
+</div>
+</div></div><div class="index-news-13"><div class="view view-news-category-previous-last view-id-news_category_previous_last view-display-id-block view-dom-id-527c66b28b37ea72c881c17de2954ece">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image-1"> <div class="field-content"><a href="/society/pogoda-na-26-serpnya-spekotne-lito-she-nagadaye-pro-sebe"><img src="https://znaj.ua/sites/default/files/styles/search/public/media/news/2018/08/34/vilniuje-tvyro-karstis-75418393.jpg?itok=JIj6i2SK" width="145" height="97" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/society/pogoda-na-26-serpnya-spekotne-lito-she-nagadaye-pro-sebe">Погода на 26 серпня: спекотне літо ще нагадає про себе</a></span> </div>
+<div class="views-field views-field-field-category"> <div class="field-content">Суспільство</div> </div>
+<div class="views-field views-field-created"> <span class="field-content">26.08.2018</span> </div> </div>
+</div>
+</div></div><div class="index-news-14"><div class="view view-news-category-previous-last view-id-news_category_previous_last view-display-id-block view-dom-id-74f42ac0ce41130a4fe4de2bc615d892">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image-1"> <div class="field-content"><a href="/tests/test-vid-znaj-chy-zmozhete-vy-vyzhyty-u-kyyevi"><img src="https://znaj.ua/sites/default/files/styles/search/public/media/news/2018/08/31/8ac4cwysljkeoeb.jpg?itok=XRyApyBF" width="145" height="97" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/tests/test-vid-znaj-chy-zmozhete-vy-vyzhyty-u-kyyevi">Тест від Знай: чи зможете ви вижити у Києві? </a></span> </div>
+<div class="views-field views-field-field-category"> <div class="field-content">Тести</div> </div>
+<div class="views-field views-field-created"> <span class="field-content">02.08.2018</span> </div> </div>
+</div>
+</div></div><div class="index-news-15"><div class="view view-news-category-previous-last view-id-news_category_previous_last view-display-id-block view-dom-id-f5041b2486fc767a443b2cdc6ea622e7">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image-1"> <div class="field-content"><a href="/techno/smartfony-xiaomi-masovo-lyagly-po-vsomu-svitu"><img src="https://znaj.ua/sites/default/files/styles/search/public/media/news/2018/08/34/real_mi_mix_0.jpg?itok=EgKYprmx" width="145" height="97" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/techno/smartfony-xiaomi-masovo-lyagly-po-vsomu-svitu">Смартфони Xiaomi масово &quot;лягли&quot; по всьому світу</a></span> </div>
+<div class="views-field views-field-field-category"> <div class="field-content">Вибір редакції, Техно</div> </div>
+<div class="views-field views-field-created"> <span class="field-content">25.08.2018</span> </div> </div>
+</div>
+</div></div><div class="index-news-16"><div class="view view-news-category-previous-last view-id-news_category_previous_last view-display-id-block view-dom-id-aa7fdcb2107012827c5ba8a2ac1bc490">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image-1"> <div class="field-content"><a href="/show-business/eks-via-gru-vitayut-z-pershym-nashadkom"><img src="https://znaj.ua/sites/default/files/styles/search/public/media/news/2018/08/34/4b53ae13659dc02641dcc6e0d3b63a6c.jpg?itok=va1ofOhH" width="145" height="97" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/show-business/eks-via-gru-vitayut-z-pershym-nashadkom">Екс-ВІА Гру вітають з першим нащадком
+</a></span> </div>
+<div class="views-field views-field-field-category"> <div class="field-content">Шоу-бізнес</div> </div>
+<div class="views-field views-field-created"> <span class="field-content">26.08.2018</span> </div> </div>
+</div>
+</div></div></div>
+</section> 
+</div>
+</div>
+<div class="main-container container">
+<div class="row">
+<aside class="col-sm-4" role="complementary">
+<div class="region region-sidebar-first well">
+<section id="block-views-frontpage-views-block-2" class="block block-views clearfix">
+<h2 class="block-title"><a href="/news">Останні новини</a></h2>
+<div class="view view-frontpage-views view-id-frontpage_views view-display-id-block_2 view-dom-id-cd5b3cbac1067b8fb7e61bb8dea94e44">
+<div class="view-content">
+<h3>26 серпня 2018</h3>
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-created-1"> <span class="field-content">07:46</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/society/rujnivnycya-mifiv-suprun-vzyalasya-za-vrozhaj-ukrayinciv" target="_self">Руйнівниця міфів Супрун взялася за врожай українців</a></span> </div> </div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">07:32</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/popcorn/tyhon-strasnyj-26-serpnya-chogo-kategorychno-ne-mozhna-robyty" target="_self"><b>Тихон Страсний 26 серпня: чого категорично не можна робити</b></a></span> </div> </div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">07:19</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/science/na-uzberezhzhi-zasikly-hyzhaka-lyudozhera-vy-budete-zdyvovani" target="_self">На узбережжі засікли хижака-людожера. Ви будете здивовані
+</a></span> </div> </div>
+<div class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">07:06</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/popcorn/progresyvnyj-shef-dozvolyv-pracyuvaty-lyshe-4-dni-na-tyzhden-i-os-sho-iz-cogo-vyjshlo" target="_self">Прогресивний шеф дозволив працювати лише 4 дні на тиждень. І ось що із цього вийшло
+</a></span> </div> </div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">06:52</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/popcorn/ikona-bozhoyi-materi-pomyakshennya-zlyh-serdec-26-serpnya-chudesa-obrazu" target="_self">Ікона Божої Матері &quot;Пом&#039;якшення злих сердець&quot; 26 серпня: чудеса образу</a></span> </div> </div>
+<div class="views-row views-row-6 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">06:38</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/show-business/mama-u-pyatdesyat-vagitna-naomi-kempbell-shokuvala-fanativ" target="_self">Мама у п’ятдесят? Вагітна Наомі Кемпбелл шокувала фанатів</a></span> </div> </div>
+<div class="views-row views-row-7 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">06:24</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/popcorn/chogo-unykayut-choloviky-u-stosunkah-zalezhno-vid-znaka-zodiaku" target="_self">Чого уникають чоловіки у стосунках залежно від знака Зодіаку</a></span> </div> </div>
+<div class="views-row views-row-8 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">06:10</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/popcorn/tyhon-strasnyj-26-serpnya-istoriya-i-tradyciyi-hrystyyan" target="_self">Тихон Страсний 26 серпня: історія і традиції християн</a></span> </div> </div>
+<div class="views-row views-row-9 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">05:54</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/history/anna-frank-i-yiyi-shodennyk-7-dyvovyzhnyh-faktiv" target="_self">Анна Франк і її щоденник: 7 дивовижних фактів</a></span> </div> </div>
+<div class="views-row views-row-10 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">05:38</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/capital/ishla-nazustrich-taksyst-pokalichyv-divchynu-pryamo-posered-hreshatyka" target="_self">Ішла назустріч: таксист покалічив дівчину прямо посеред Хрещатика</a></span> </div> </div>
+<div class="views-row views-row-11 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">05:20</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/popcorn/erotychnyj-goroskop-na-26-serpnya-komu-ne-zashkodyt-intymnyj-masazh" target="_self">Еротичний гороскоп на 26 серпня: кому не зашкодить інтимний масаж</a></span> </div> </div>
+<div class="views-row views-row-12 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">05:02</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/world/mentotraktor-u-putina-pokazaly-davylku-dlya-lyudej-na-mityngah" target="_self">Ментотрактор: у Путіна показали давилку для людей на мітингах</a></span> </div> </div>
+<div class="views-row views-row-13 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">04:40</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/popcorn/goroskop-na-26-serpnya-telci-chekajte-na-neprohanyh-gostej" target="_self">Гороскоп на 26 серпня: Тельці, чекайте на непроханих гостей</a></span> </div> </div>
+<div class="views-row views-row-14 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">04:18</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/politics/v-rosiyi-rozpovily-sho-zupynylo-putina-na-shlyahu-do-zahoplennya-ukrayiny" target="_self">В Росії розповіли, що зупинило Путіна на шляху до захоплення України</a></span> </div> </div>
+<div class="views-row views-row-15 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">03:56</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/society/pogoda-na-26-serpnya-spekotne-lito-she-nagadaye-pro-sebe" target="_self">Погода на 26 серпня: спекотне літо ще нагадає про себе</a></span> </div> </div>
+<div class="views-row views-row-16 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">03:34</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/world/karma-v-chystomu-vyglyadi-zlodij-namagavsya-rozbyty-sklo-ale-shos-pishlo-ne-tak" target="_self">Карма в чистому вигляді: злодій намагався розбити скло, але щось пішло не так</a></span> </div> </div>
+<div class="views-row views-row-17 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">03:12</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/techno/zlochynnyj-dodatok-zyasuvalas-she-odna-prychyna-shvydkogo-rozryadzhannya-smartfoniv" target="_self">Злочинний додаток: з&#039;ясувалась ще одна причина швидкого розряджання смартфонів
+</a></span> </div> </div>
+<div class="views-row views-row-18 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">02:50</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/society/shalena-styhiya-posadyt-ukrayinciv-pid-domashnij-aresht" target="_self"><b>Шалена стихія посадить українців під &quot;домашній арешт&quot;</b></a></span> </div> </div>
+<div class="views-row views-row-19 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">02:32</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/history/zagynuly-v-odnu-myt-tayemnycya-pradavnogo-idealnogo-mista-mohendzho-daro" target="_self">Загинули в одну мить: таємниця прадавнього ідеального міста Мохенджо-Даро</a></span> </div> </div>
+<div class="views-row views-row-20 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">02:14</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/popcorn/lyutyj-gnom-ne-daye-spokijno-zhyty-cilyi-simyi-video" target="_self">Лютий гном не дає спокійно жити цілій сім&#039;ї: відео
+</a></span> </div> </div>
+<div class="views-row views-row-21 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">01:58</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/popcorn/26-serpnya-golovna-osoblyvist-cogo-dnya" target="_self">26 серпня: головна особливість цього дня</a></span> </div> </div>
+<div class="views-row views-row-22 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">01:42</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/politics/povitryani-angely-vsu-pokazaly-vsyu-mic-ukrayinskoyi-aviaciyi-video" target="_self"><b>Повітряні ангели ВСУ показали всю міць української авіації: відео</b></a></span> </div> </div>
+<div class="views-row views-row-23 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">01:26</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/popcorn/nezrozumili-slidy-motoroshnyj-monstr-hodyt-po-dnu-tyhogo-okeanu" target="_self">Незрозумілі сліди: моторошний монстр ходить по дну Тихого океану</a></span> </div> </div>
+<div class="views-row views-row-24 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">01:10</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/capital/vidbijnyk-zupynyv-nichnogo-gonshyka-na-bmw-slabkoduhym-ne-dyvytysya" target="_self">Відбійник зупинив нічного гонщика на BMW, слабкодухим не дивитися</a></span> </div> </div>
+<div class="views-row views-row-25 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">00:59</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/history/malenkyj-posol-svitu-z-tragichnoyu-doleyu-istoriya-samanty-smit" target="_self">Маленький посол світу з трагічною долею: історія Саманти Сміт</a></span> </div> </div>
+<div class="views-row views-row-26 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">00:48</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/show-business/eks-via-gru-vitayut-z-pershym-nashadkom" target="_self">Екс-ВІА Гру вітають з першим нащадком
+</a></span> </div> </div>
+<div class="views-row views-row-27 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">00:37</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/society/shkilni-kanikuly-povnyj-grafik-za-navchalnymy-semestramy" target="_self"><b>Шкільні канікули: повний графік за навчальними семестрами</b></a></span> </div> </div>
+<div class="views-row views-row-28 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">00:26</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/popcorn/vbyvcya-raku-ta-snidu-vcheni-vyyavyly-charivni-vlastyvosti-populyarnogo-ovocha" target="_self">Вбивця раку та СНІДу: вчені виявили чарівні властивості популярного овоча</a></span> </div> </div>
+<div class="views-row views-row-29 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">00:15</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/society/pogoda-na-25-serpnya-ne-dast-vam-nasolodytysya-litom" target="_self">Погода на 25 серпня не дасть вам насолодитися літом</a></span> </div> </div>
+<div class="views-row views-row-30 views-row-even views-row-last">
+<div class="views-field views-field-created-1"> <span class="field-content">00:04</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/world/ukravtodor-v-shoci-kanadski-dorogy-remontuyut-pomidoramy" target="_self">Укравтодор в шоці: канадські дороги ремонтують помідорами</a></span> </div> </div>
+<h3>25 серпня 2018</h3>
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-created-1"> <span class="field-content">23:55</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/world/kerivnyka-twitter-spitkala-dolya-cukerberga" target="_self">Керівника Twitter спіткала доля Цукерберга</a></span> </div> </div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">23:46</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/world/chergovyj-vatazhok-al-kayidy-povtoryv-dolyu-ben-ladena" target="_self">Черговий ватажок &quot;Аль-Каїди&quot; повторив долю бен Ладена</a></span> </div> </div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">23:37</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/world/navit-isus-vbravsya-v-ukrayinski-kolory-foto-sho-nadyhayut" target="_self">Навіть Ісус убрався в українські кольори: фото, що надихають</a></span> </div> </div>
+<div class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">23:28</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/society/pozhezha-na-novij-poshti-merezhu-nazhahalo-video-z-miscya-podij" target="_self">Пожежа на Новій пошті: мережу нажахало відео з місця подій</a></span> </div> </div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">23:19</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/show-business/ne-petrosyanom-yedynym-pidstarkuvatyj-vensan-kassel-rozpoviv-yak-poznajomyvsya-z-21-richnoyu-druzhynoyu" target="_self">Не Петросяном єдиним: підстаркуватий Венсан Кассель розповів, як познайомився з 21-річною дружиною</a></span> </div> </div>
+<div class="views-row views-row-6 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">23:10</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/society/ukrayinski-vodiyi-styknulysya-z-novoyu-problemoyu-sho-potribno-znaty" target="_self"><b>Українські водії стикнулися з новою проблемою: що потрібно знати</b></a></span> </div> </div>
+<div class="views-row views-row-7 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">23:01</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/society/vbyvcya-tankiv-ukrayincyam-pokazaly-vitchyznyanogo-zaliznogo-monstra" target="_self">Вбивця танків: українцям показали вітчизняного залізного монстра</a></span> </div> </div>
+<div class="views-row views-row-8 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">22:52</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/history/znachno-starsha-za-rym-zagadka-starodavnoyi-kytajskoyi-kultury-sansinduj" target="_self">Значно старша за Рим: загадка стародавньої китайської культури Саньсіндуй</a></span> </div> </div>
+<div class="views-row views-row-9 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">22:43</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/techno/smartfony-xiaomi-masovo-lyagly-po-vsomu-svitu" target="_self">Смартфони Xiaomi масово &quot;лягли&quot; по всьому світу</a></span> </div> </div>
+<div class="views-row views-row-10 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">22:34</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/popcorn/astrology-vyznachyly-krashyh-i-girshyh-cholovikiv-za-znakom-zodiaku" target="_self">Астрологи визначили кращих і гірших чоловіків за знаком Зодіаку</a></span> </div> </div>
+<div class="views-row views-row-11 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">22:25</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/world/perelomy-reber-ta-zabij-legen-velycheznyj-kamin-malo-ne-vbyv-vodiya-avtobusa" target="_self">Переломи ребер та забій легень: величезний камінь мало не вбив водія автобуса
+</a></span> </div> </div>
+<div class="views-row views-row-12 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">22:16</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/show-business/chervy-merci-i-pryvydy-imagine-dragons-pokazaly-svitu-krutyj-klip-v-styli-horor" target="_self">Черви, мерці і привиди: Imagine Dragons показали світу крутий кліп в стилі хорор</a></span> </div> </div>
+<div class="views-row views-row-13 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">22:07</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/popcorn/prizvyshe-cholovika-zdatne-povnistyu-zminyty-dolyu-zhinky" target="_self">Прізвище чоловіка здатне повністю змінити долю жінки</a></span> </div> </div>
+<div class="views-row views-row-14 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">21:58</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/capital/podvijna-dtp-v-kyyevi-peretvoryla-mashyny-na-kupu-zaliza-ye-postrazhdali" target="_self">Подвійна ДТП в Києві перетворила машини на купу заліза, є постраждалі</a></span> </div> </div>
+<div class="views-row views-row-15 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">21:49</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/society/pogoda-na-pochatok-tyzhnya-sylna-speka-povernetsya-ale-nenadovgo" target="_self">Погода на початок тижня: сильна спека повернеться, але ненадовго</a></span> </div> </div>
+<div class="views-row views-row-16 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">21:40</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/world/pislya-tanciv-putina-avstriyu-nakryv-strashnyj-pryrodnyj-kataklizm" target="_self"><b>Після танців Путіна Австрію накрив страшний природний катаклізм</b></a></span> </div> </div>
+<div class="views-row views-row-17 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">21:31</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/capital/kryvavyj-strajk-vodij-vantazhivky-odnym-udarom-znis-pyat-avto" target="_self">Кривавий страйк: водій вантажівки одним ударом зніс п&#039;ять авто</a></span> </div> </div>
+<div class="views-row views-row-18 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">21:22</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/society/kurs-valyut-na-26-serpnya-vzhene-ukrayinciv-u-depresiyu" target="_self"><b>Курс валют на 26 серпня вжене українців у депресію</b></a></span> </div> </div>
+<div class="views-row views-row-19 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">21:13</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/science/vcheni-byut-na-spoloh-asteroyid-vbyvcya-mchyt-na-zemlyu" target="_self">Вчені б&#039;ють на сполох: астероїд-вбивця мчить на Землю</a></span> </div> </div>
+<div class="views-row views-row-20 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">21:04</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/capital/nebezpechno-dlya-zhyttya-na-dytyachomu-majdanchyku-v-kyyevi-znajshly-take-chogo-tam-buty-ne-povynno" target="_self">Небезпечно для життя: на дитячому майданчику в Києві знайшли таке, чого там бути не повинно</a></span> </div> </div>
+<div class="views-row views-row-21 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">18:54</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/boxing/uord-rozpoviv-pro-povernennya-v-boks" target="_blank">Уорд розповів про повернення в бокс</a></span> </div> </div>
+<div class="views-row views-row-22 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">18:02</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/formula-1/formula-1-vyznachyvsya-peremozhec-kvalifikaciyi-gp-belgiyi" target="_blank">Формула-1: визначився переможець кваліфікації ГП Бельгії</a></span> </div> </div>
+<div class="views-row views-row-23 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">17:37</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/tennis/vilyams-zagovoryla-pro-zavershennya-karyery" target="_blank">Вільямс заговорила про завершення кар&#039;єри</a></span> </div> </div>
+<div class="views-row views-row-24 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">16:59</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/boxing/uajlder-rozpoviv-chomu-bij-z-dzhoshua-ne-vidbudetsya" target="_blank">Уайлдер розповів, чому бій з Джошуа не відбудеться</a></span> </div> </div>
+<div class="views-row views-row-25 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">16:33</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/boxing/na-konu-boyu-alvares-golovkin-bude-specialnyj-poyas-foto" target="_blank">На кону бою Альварес - Головкін буде спеціальний пояс: фото</a></span> </div> </div>
+<div class="views-row views-row-26 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">15:51</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/football/zinchenko-vlashtuvav-bijku-na-trenuvanni-video" target="_blank">Зінченко влаштував бійку на тренуванні: відео</a></span> </div> </div>
+<div class="views-row views-row-27 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">15:06</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/boxing/usyk-prokomentuvav-krytyku-na-svoyu-adresu" target="_blank">Усик прокоментував критику на свою адресу</a></span> </div> </div>
+<div class="views-row views-row-28 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">14:22</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/formula-1/formula-1-de-dyvytysya-gp-belgiyi" target="_blank">Формула 1: де дивитися ГП Бельгії</a></span> </div> </div>
+<div class="views-row views-row-29 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">13:43</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/olympic/pomerla-olimpijska-chempionka" target="_blank">Померла олімпійська чемпіонка</a></span> </div> </div>
+<div class="views-row views-row-30 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">12:59</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/yarmolenko-pryvitav-ukrayinciv-z-dnem-nezalezhnosti-foto" target="_blank">Ярмоленко привітав українців з Днем незалежності: фото</a></span> </div> </div>
+<div class="views-row views-row-31 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">12:06</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/football/v-ayaksi-podilylysya-ochikuvannyamy-vid-matchu-z-dynamo" target="_blank">В Аяксі поділилися очікуваннями від матчу з Динамо</a></span> </div> </div>
+<div class="views-row views-row-32 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">11:19</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/boxing/trener-golovkina-vidpoviv-na-obrazy-alvaresa" target="_blank">Тренер Головкіна відповів на образи Альвареса</a></span> </div> </div>
+<div class="views-row views-row-33 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">10:46</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/tennis/svitolina-pohvalylasya-krosivkamy-vid-sharapovoyi-foto" target="_blank">Світоліна похвалилася кросівками від Шарапової: фото</a></span> </div> </div>
+<div class="views-row views-row-34 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">10:14</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/boxing/derevyanchenko-dzhejkobs-provely-pershu-duel-poglyadiv-video" target="_blank">Дерев&#039;янченко - Джейкобс провели першу дуель поглядів: відео</a></span> </div> </div>
+<div class="views-row views-row-35 views-row-odd views-row-last">
+<div class="views-field views-field-created-1"> <span class="field-content">09:42</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/boxing/lomachenko-otrymav-imennyj-poyas-zhurnalu-the-ring" target="_blank">Ломаченко отримав іменний пояс журналу The Ring</a></span> </div> </div>
+<h3>24 серпня 2018</h3>
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-created-1"> <span class="field-content">23:39</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/bavariya-perekonlyvoyu-peremogoyu-vidkryla-novyj-sezon-bundesligy" target="_blank">Баварія переконливою перемогою відкрила новий сезон Бундесліги</a></span> </div> </div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">22:26</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/ukraine/upl-olimpik-i-shahtar-zabyly-sim-myachiv" target="_blank">УПЛ: Олімпік і Шахтар забили сім м&#039;ячів</a></span> </div> </div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">21:01</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/football/vidomyj-futbolist-povtorno-dyskvalifikovanyj-za-vzhyvannya-kokayinu" target="_blank">Відомий футболіст повторно дискваліфікований за вживання кокаїну</a></span> </div> </div>
+<div class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">20:43</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/europe/real-vidpravlyaye-lunina-graty-za-komandu-z-peredmistya-madryda" target="_blank">Реал відправляє Луніна грати за команду з передмістя Мадрида</a></span> </div> </div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">19:55</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/tennis/nova-novyna" target="_blank">Світоліна проведе в Україні свій Ролан Гаррос</a></span> </div> </div>
+<div class="views-row views-row-6 views-row-even">
+<div class="views-field views-field-created-1"> <span class="field-content">18:44</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/ukraine/zirky-upl-pryvitaly-z-dnem-nezalezhnosti-ukrayiny-video" target="_blank">Зірки УПЛ привітали з Днем незалежності України: відео</a></span> </div> </div>
+<div class="views-row views-row-7 views-row-odd">
+<div class="views-field views-field-created-1"> <span class="field-content">18:01</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/europe/znamenytyj-futbolist-prodavav-druzhynu-i-za-ce-otrymav-termin" target="_blank">Знаменитий футболіст &quot;продавав&quot; дружину і за це отримав термін</a></span> </div> </div>
+<div class="views-row views-row-8 views-row-even views-row-last">
+<div class="views-field views-field-created-1"> <span class="field-content">16:53</span> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="http://sport.znaj.ua/europe/ronaldu-rozpoviv-pro-ulyubleni-vydy-sportu" target="_blank">Роналду розповів про улюблені види спорту</a></span> </div> </div>
+</div>
+<div class="view-footer">
+<a href="/news">Читати далі</a> </div>
+</div>
+</section> 
+</div>
+</aside> 
+<section class="col-sm-8">
+<a id="main-content"></a>
+<div class="region region-content">
+<section id="block-views-frontpage-views-block-1" class="block block-views clearfix">
+<div class="view view-frontpage-views view-id-frontpage_views view-display-id-block_1 view-dom-id-a0192ba673ca8120ad56dff12ca7cbb2">
+<div class="view-content">
+<div id="flexslider-1" class="flexslider">
+<ul class="slides"><li>
+<div class="image views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/popcorn">Попкорн</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/popcorn/tyhon-strasnyj-26-serpnya-chogo-kategorychno-ne-mozhna-robyty"><img src="https://znaj.ua/sites/default/files/styles/top_main_news/public/media/news/2018/08/34/belarus-planiruet-poluchit-ne-menee-9-mln-t-zerna-novogo-urozhaya.jpg?itok=Ou4JqYwh" width="950" height="510" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/popcorn/tyhon-strasnyj-26-serpnya-chogo-kategorychno-ne-mozhna-robyty">Тихон Страсний 26 серпня: чого категорично не можна робити</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Наші предки в цей день заговорювали сіно від недоброго слова</div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-created pull-right"><span class="field-content">07:32 26.08</span></div>
+</div>
+</div>
+</li>
+<li>
+<div class="image views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/politics">Політика</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/politics/povitryani-angely-vsu-pokazaly-vsyu-mic-ukrayinskoyi-aviaciyi-video"><img src="https://znaj.ua/sites/default/files/styles/top_main_news/public/media/news/2018/08/34/img_4594_1.jpg?itok=0-AkZCFj" width="950" height="510" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/politics/povitryani-angely-vsu-pokazaly-vsyu-mic-ukrayinskoyi-aviaciyi-video">Повітряні ангели ВСУ показали всю міць української авіації: відео</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Ми можемо пишатися нашою технікою і пілотами
+</div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-created pull-right"><span class="field-content">01:42 26.08</span></div>
+</div>
+</div>
+</li>
+<li>
+<div class="image views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/society">Суспільство</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/society/shkilni-kanikuly-povnyj-grafik-za-navchalnymy-semestramy"><img src="https://znaj.ua/sites/default/files/styles/top_main_news/public/media/news/2018/08/34/sroky-vesennyh-kanykul-2017-v-ukrayne.jpg?itok=KP1Dn-z8" width="950" height="510" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/society/shkilni-kanikuly-povnyj-grafik-za-navchalnymy-semestramy">Шкільні канікули: повний графік за навчальними семестрами</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">З 1 вересня у новій українській школі очікуються зміни не тільки робочого графіку </div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-created pull-right"><span class="field-content">00:37 26.08</span></div>
+</div>
+</div>
+</li>
+<li>
+<div class="image views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/society">Суспільство</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/society/ukrayinski-vodiyi-styknulysya-z-novoyu-problemoyu-sho-potribno-znaty"><img src="https://znaj.ua/sites/default/files/styles/top_main_news/public/media/news/2018/08/34/istock-894177124.jpg?itok=9dvr8qxV" width="950" height="510" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/society/ukrayinski-vodiyi-styknulysya-z-novoyu-problemoyu-sho-potribno-znaty">Українські водії стикнулися з новою проблемою: що потрібно знати</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Українські водії зіткнулися з новою проблемою</div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-created pull-right"><span class="field-content">23:10 25.08</span></div>
+</div>
+</div>
+</li>
+<li>
+<div class="image views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/world">Світ</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/world/pislya-tanciv-putina-avstriyu-nakryv-strashnyj-pryrodnyj-kataklizm"><img src="https://znaj.ua/sites/default/files/styles/top_main_news/public/media/news/2018/08/34/1469371106_b1c291fd6e22e213ad4435214ee319b6.jpg?itok=Zlk0reoG" width="950" height="510" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/world/pislya-tanciv-putina-avstriyu-nakryv-strashnyj-pryrodnyj-kataklizm">Після танців Путіна Австрію накрив страшний природний катаклізм</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Стихія вражає країни Європи
+</div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-created pull-right"><span class="field-content">21:40 25.08</span></div>
+</div>
+</div>
+</li>
+<li>
+<div class="image views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/editor-choice">Вибір редакції</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/popcorn/den-aviaciyi-ukrayiny-25-serpnya-krashi-pryvitannya-u-virshah-i-prozi"><img src="https://znaj.ua/sites/default/files/styles/top_main_news/public/media/news/2018/08/34/avyacyya_ukrayni.jpg?itok=jHVWNMY8" width="950" height="510" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/popcorn/den-aviaciyi-ukrayiny-25-serpnya-krashi-pryvitannya-u-virshah-i-prozi">День авіації України 25 серпня: кращі привітання у віршах і прозі</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Підбірка привітань для тих, хто панує в небі</div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-created pull-right"><span class="field-content">19:33 25.08</span></div>
+</div>
+</div>
+</li>
+<li>
+<div class="image views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/capital">Столиця</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/capital/eks-posol-pyanym-ganyav-po-zustrichnij-a-znahidka-v-mashyni-zmusyla-policejskyh-zdrygnutysya"><img src="https://znaj.ua/sites/default/files/styles/top_main_news/public/media/news/2018/08/34/02189d7c-031d-40a7-baaf-70ab18ea8c38_w1200_r1_s.jpg?itok=FSBssvzT" width="950" height="510" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/capital/eks-posol-pyanym-ganyav-po-zustrichnij-a-znahidka-v-mashyni-zmusyla-policejskyh-zdrygnutysya">Екс-посол п&#039;яним ганяв по зустрічній, а знахідка в машині змусила поліцейських здригнутися </a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Екс-посол України в США роз&#039;їжджав по Києву в нетверезому стані</div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-created pull-right"><span class="field-content">17:54 25.08</span></div>
+</div>
+</div>
+</li>
+<li>
+<div class="image views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/society">Суспільство</a></div></div>  <div class="views-field views-field-field-image"><div class="field-content"><a href="/society/gotujtesya-ukrayinciv-poperedyly-pro-bozhevillya-styhiyi"><img src="https://znaj.ua/sites/default/files/styles/top_main_news/public/media/news/2018/08/34/1477940936193966283.jpg?itok=hG458QHA" width="950" height="510" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/society/gotujtesya-ukrayinciv-poperedyly-pro-bozhevillya-styhiyi">Готуйтеся: українців попередили про божевілля стихії
+</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Крім того, у гідрометцентрі додали, що субкомфортні погодні умови у вівторок затягнуться майже до обіду</div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-created pull-right"><span class="field-content">15:48 25.08</span></div>
+</div>
+</div>
+</li>
+</ul></div>
+</div>
+</div>
+</section> 
+<section id="block-system-main" class="block block-system clearfix">
+<div class="view view-frontpage-views view-id-frontpage_views view-display-id-page view-dom-id-6768576dc3bc99b813c5bb1f4229cb15">
+<div class="view-header">
+Головні новини </div>
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first col-sm-4">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/capital/ishla-nazustrich-taksyst-pokalichyv-divchynu-pryamo-posered-hreshatyka"><img src="https://znaj.ua/sites/default/files/styles/main_news_for_main_page/public/media/news/2018/08/34/hreshch_2.jpg?itok=OKZ5h6Tg" width="310" height="235" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/capital/ishla-nazustrich-taksyst-pokalichyv-divchynu-pryamo-posered-hreshatyka">Ішла назустріч: таксист покалічив дівчину прямо посеред Хрещатика</a></span> </div>
+<div class="bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category"><div class="field-content"><a href="/news/%5Bfield_path_name%5D"><a href="/news/capital">Столиця</a></a></div></div> <div class="views-field views-field-created pull-right"><span class="field-content">05:38 26.08.</span></div>
+</div>
+</div>
+<div class="views-row views-row-2 views-row-even col-sm-4">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/society/pogoda-na-26-serpnya-spekotne-lito-she-nagadaye-pro-sebe"><img src="https://znaj.ua/sites/default/files/styles/main_news_for_main_page/public/media/news/2018/08/34/vilniuje-tvyro-karstis-75418393.jpg?itok=RT9L_7yZ" width="310" height="235" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/society/pogoda-na-26-serpnya-spekotne-lito-she-nagadaye-pro-sebe">Погода на 26 серпня: спекотне літо ще нагадає про себе</a></span> </div>
+<div class="bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category"><div class="field-content"><a href="/news/%5Bfield_path_name%5D"><a href="/news/society">Суспільство</a></a></div></div> <div class="views-field views-field-created pull-right"><span class="field-content">03:56 26.08.</span></div>
+</div>
+</div>
+<div class="views-row views-row-3 views-row-odd views-row-last col-sm-4">
+<div class="views-field views-field-field-image">  <div class="field-content"><a href="/society/shalena-styhiya-posadyt-ukrayinciv-pid-domashnij-aresht"><img src="https://znaj.ua/sites/default/files/styles/main_news_for_main_page/public/media/news/2018/08/34/styhyya.jpg?itok=2ysEBMxe" width="310" height="235" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/society/shalena-styhiya-posadyt-ukrayinciv-pid-domashnij-aresht">Шалена стихія посадить українців під &quot;домашній арешт&quot;</a></span> </div>
+<div class="bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category"><div class="field-content"><a href="/news/%5Bfield_path_name%5D"><a href="/news/society">Суспільство</a></a></div></div> <div class="views-field views-field-created pull-right"><span class="field-content">02:50 26.08.</span></div>
+</div>
+</div>
+</div>
+</div>
+</section> 
+</div>
+<div class="content-bottom-region_wrapper">
+<div class="region region-content-bottom">
+<section id="block-custom-frontpage-frontpage-block-left-content" class="block block-custom-frontpage col-sm-6 clearfix">
+<div class="frontpage-block-left-content"><div class="index-block-0"><div class="block-title"><h2>Суспільство</h2></div><div class="block-linc"><h2><a href="/news/society">Читати далі</a></h2></div><div class="view view-frontpage-content-left view-id-frontpage_content_left view-display-id-block_1 view-dom-id-5dfba8e30004399f67debf6ad2001246">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="зображення views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/society">Суспільство</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/society/pogoda-na-26-serpnya-spekotne-lito-she-nagadaye-pro-sebe"><img src="https://m.znaj.ua/sites/default/files/styles/news_425x245/public/media/news/2018/08/34/vilniuje-tvyro-karstis-75418393.jpg?itok=g6f3LbKx" width="425" height="245" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/society/pogoda-na-26-serpnya-spekotne-lito-she-nagadaye-pro-sebe">Погода на 26 серпня: спекотне літо ще нагадає про себе</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Сильні грози пройдуть лише на заході</div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category-1 views-field-name-1 pull-left"><div class="field-content"><a href="/news/society">Суспільство</a></div></div> <div class="views-field views-field-created pull-right"><span class="field-content">03:56 26.08.</span></div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div class="зображення views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/society">Суспільство</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/society/shalena-styhiya-posadyt-ukrayinciv-pid-domashnij-aresht"><img src="https://m.znaj.ua/sites/default/files/styles/160x110/public/media/news/2018/08/34/styhyya.jpg?itok=yPSNrHbP" width="160" height="110" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/society/shalena-styhiya-posadyt-ukrayinciv-pid-domashnij-aresht">Шалена стихія посадить українців під &quot;домашній арешт&quot;</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Україну знову будуть терзати град і шквали</div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category-1 views-field-name-1 pull-left"><div class="field-content"><a href="/news/society">Суспільство</a></div></div> <div class="views-field views-field-created pull-right"><span class="field-content">02:50 26.08.</span></div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-3 views-row-odd views-row-last">
+<div class="зображення views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/society">Суспільство</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/society/shkilni-kanikuly-povnyj-grafik-za-navchalnymy-semestramy"><img src="https://m.znaj.ua/sites/default/files/styles/160x110/public/media/news/2018/08/34/sroky-vesennyh-kanykul-2017-v-ukrayne.jpg?itok=8kejuD_1" width="160" height="110" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/society/shkilni-kanikuly-povnyj-grafik-za-navchalnymy-semestramy">Шкільні канікули: повний графік за навчальними семестрами</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">З 1 вересня у новій українській школі очікуються зміни не тільки робочого графіку </div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category-1 views-field-name-1 pull-left"><div class="field-content"><a href="/news/society">Суспільство</a></div></div> <div class="views-field views-field-created pull-right"><span class="field-content">00:37 26.08.</span></div>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="index-block-1"><div class="block-title"><h2>Попкорн</h2></div><div class="block-linc"><h2><a href="/news/popcorn">Читати далі</a></h2></div><div class="view view-frontpage-content-left view-id-frontpage_content_left view-display-id-block_1 view-dom-id-f47aeada300855184472fdaf254f0e27">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="зображення views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/popcorn">Попкорн</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/popcorn/progresyvnyj-shef-dozvolyv-pracyuvaty-lyshe-4-dni-na-tyzhden-i-os-sho-iz-cogo-vyjshlo"><img src="https://m.znaj.ua/sites/default/files/styles/news_425x245/public/media/news/2018/08/34/ofys_daaaa.jpg?itok=pQB3gZ9C" width="425" height="245" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/popcorn/progresyvnyj-shef-dozvolyv-pracyuvaty-lyshe-4-dni-na-tyzhden-i-os-sho-iz-cogo-vyjshlo">Прогресивний шеф дозволив працювати лише 4 дні на тиждень. І ось що із цього вийшло
+</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Експеримент шокував результатами</div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category-1 views-field-name-1 pull-left"><div class="field-content"><a href="/news/popcorn">Попкорн</a></div></div> <div class="views-field views-field-created pull-right"><span class="field-content">07:06 26.08.</span></div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div class="зображення views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/popcorn">Попкорн</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/popcorn/ikona-bozhoyi-materi-pomyakshennya-zlyh-serdec-26-serpnya-chudesa-obrazu"><img src="https://m.znaj.ua/sites/default/files/styles/160x110/public/media/news/2018/08/34/9190340_w640_h640_n119_1.jpeg?itok=6ggW6SI9" width="160" height="110" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/popcorn/ikona-bozhoyi-materi-pomyakshennya-zlyh-serdec-26-serpnya-chudesa-obrazu">Ікона Божої Матері &quot;Пом&#039;якшення злих сердець&quot; 26 серпня: чудеса образу</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Під час епідемії холери в 1830 році ікона особливо прославилася </div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category-1 views-field-name-1 pull-left"><div class="field-content"><a href="/news/popcorn">Попкорн</a></div></div> <div class="views-field views-field-created pull-right"><span class="field-content">06:52 26.08.</span></div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-3 views-row-odd views-row-last">
+<div class="зображення views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/popcorn">Попкорн</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/popcorn/chogo-unykayut-choloviky-u-stosunkah-zalezhno-vid-znaka-zodiaku"><img src="https://m.znaj.ua/sites/default/files/styles/160x110/public/media/news/2018/08/34/rugatsja-chtoby-ljubit-kak-ssory-vlijajut-na-otnoshenija.jpg?itok=VW1Of9eK" width="160" height="110" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/popcorn/chogo-unykayut-choloviky-u-stosunkah-zalezhno-vid-znaka-zodiaku">Чого уникають чоловіки у стосунках залежно від знака Зодіаку</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Ці прості поради допоможуть тобі зміцнити відносини і стати щасливіше
+</div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category-1 views-field-name-1 pull-left"><div class="field-content"><a href="/news/popcorn">Попкорн</a></div></div> <div class="views-field views-field-created pull-right"><span class="field-content">06:24 26.08.</span></div>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="index-block-2"><div class="block-title"><h2>Столиця</h2></div><div class="block-linc"><h2><a href="/news/capital">Читати далі</a></h2></div><div class="view view-frontpage-content-left view-id-frontpage_content_left view-display-id-block_1 view-dom-id-775593a55af6b88aeb05748d074610f7">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="зображення views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/capital">Столиця</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/capital/ishla-nazustrich-taksyst-pokalichyv-divchynu-pryamo-posered-hreshatyka"><img src="https://m.znaj.ua/sites/default/files/styles/news_425x245/public/media/news/2018/08/34/hreshch_2.jpg?itok=s1qvuIv4" width="425" height="245" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/capital/ishla-nazustrich-taksyst-pokalichyv-divchynu-pryamo-posered-hreshatyka">Ішла назустріч: таксист покалічив дівчину прямо посеред Хрещатика</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Трагедія сталася пізно вночі у центрі Києва</div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category-1 views-field-name-1 pull-left"><div class="field-content"><a href="/news/capital">Столиця</a></div></div> <div class="views-field views-field-created pull-right"><span class="field-content">05:38 26.08.</span></div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div class="зображення views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/capital">Столиця</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/capital/vidbijnyk-zupynyv-nichnogo-gonshyka-na-bmw-slabkoduhym-ne-dyvytysya"><img src="https://m.znaj.ua/sites/default/files/styles/160x110/public/media/news/2018/08/34/dtp_2.jpg?itok=0Lk6u40P" width="160" height="110" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/capital/vidbijnyk-zupynyv-nichnogo-gonshyka-na-bmw-slabkoduhym-ne-dyvytysya">Відбійник зупинив нічного гонщика на BMW, слабкодухим не дивитися</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Страшна аварія сталася близько опівночі в столиці</div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category-1 views-field-name-1 pull-left"><div class="field-content"><a href="/news/capital">Столиця</a></div></div> <div class="views-field views-field-created pull-right"><span class="field-content">01:10 26.08.</span></div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-3 views-row-odd views-row-last">
+<div class="зображення views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/capital">Столиця</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/capital/podvijna-dtp-v-kyyevi-peretvoryla-mashyny-na-kupu-zaliza-ye-postrazhdali"><img src="https://m.znaj.ua/sites/default/files/styles/160x110/public/media/news/2018/08/34/dtp_okruzhnaya.jpg?itok=-nvbFOK_" width="160" height="110" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/capital/podvijna-dtp-v-kyyevi-peretvoryla-mashyny-na-kupu-zaliza-ye-postrazhdali">Подвійна ДТП в Києві перетворила машини на купу заліза, є постраждалі</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Вантажівка врізалася в авто, яке оформляли на місці ДТП</div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category-1 views-field-name-1 pull-left"><div class="field-content"><a href="/news/capital">Столиця</a></div></div> <div class="views-field views-field-created pull-right"><span class="field-content">21:58 25.08.</span></div>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="index-block-3"><div class="block-title"><h2>Ексклюзив</h2></div><div class="block-linc"><h2><a href="/news/exclusive">Читати далі</a></h2></div><div class="view view-frontpage-content-left view-id-frontpage_content_left view-display-id-block_1 view-dom-id-edcc25a0fc6d286d69fd1dd802ddf3ef">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="зображення views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/exclusive">Ексклюзив</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/exclusive/kyivstar-mene-obikrav-oburenyj-ukrayinec-rozpoviv-yak-znykayut-groshi"><img src="https://m.znaj.ua/sites/default/files/styles/news_425x245/public/media/news/2018/08/33/1469034613-4074.jpg?itok=syX0NA1g" width="425" height="245" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/exclusive/kyivstar-mene-obikrav-oburenyj-ukrayinec-rozpoviv-yak-znykayut-groshi">&quot;Kyivstar мене обікрав&quot;: обурений українець розповів, як зникають гроші</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Безпеку ваших рахунків ніхто не гарантує, погляньте як це відбувається </div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category-1 views-field-name-1 pull-left"><div class="field-content"><a href="/news/exclusive">Ексклюзив</a></div></div> <div class="views-field views-field-created pull-right"><span class="field-content">15:00 14.08.</span></div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div class="зображення views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/exclusive">Ексклюзив</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/exclusive/rozluchennya-v-ukrayini-pokrokova-instrukciya-yak-projty-pekelnyj-shlyah"><img src="https://m.znaj.ua/sites/default/files/styles/160x110/public/media/news/2018/08/31/rozluchennya2_1.jpeg?itok=6XRrFaJS" width="160" height="110" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/exclusive/rozluchennya-v-ukrayini-pokrokova-instrukciya-yak-projty-pekelnyj-shlyah">Розлучення в Україні: покрокова інструкція, як пройти пекельний шлях </a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Не втрачайте оптимізму, адже доведеться витерпіти багато труднощів </div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category-1 views-field-name-1 pull-left"><div class="field-content"><a href="/news/exclusive">Ексклюзив</a></div></div> <div class="views-field views-field-created pull-right"><span class="field-content">12:00 02.08.</span></div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-3 views-row-odd views-row-last">
+<div class="зображення views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category views-field-name"><div class="field-content"><a href="/news/exclusive">Ексклюзив</a></div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="/exclusive/tretya-svitova-porivnyuyemo-vijskovi-mozhlyvosti-ssha-ta-rosiyi"><img src="https://m.znaj.ua/sites/default/files/styles/160x110/public/media/news/2018/07/29/flot_ssha.jpg?itok=mB9MT59H" width="160" height="110" alt="" /></a></div></div>
+</div>
+<div class="content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/exclusive/tretya-svitova-porivnyuyemo-vijskovi-mozhlyvosti-ssha-ta-rosiyi">Третя світова: порівнюємо військові можливості США та Росії</a></span></div> <div class="views-field views-field-field-announcement"><div class="field-content">Що ж буде, коли ці дві країни все ж таки зважаться наставити один на одного зброю</div></div>
+<div class="content-bottom row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category-1 views-field-name-1 pull-left"><div class="field-content"><a href="/news/exclusive">Ексклюзив</a></div></div> <div class="views-field views-field-created pull-right"><span class="field-content">17:14 19.07.</span></div>
+</div>
+</div>
+</div>
+</div>
+</div></div></div>
+</section> 
+<section id="block-custom-frontpage-frontpage-block-right-content" class="block block-custom-frontpage clearfix">
+<div class="frontpage-block-right-content"><div class="index-block-0"><div class="block-title"><h2>Відео</h2></div><div class="view view-frontpage-content-left view-id-frontpage_content_left view-display-id-block_4 view-dom-id-6b011f4d257ffab61201b67fbc73f34b">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/world/perelomy-reber-ta-zabij-legen-velycheznyj-kamin-malo-ne-vbyv-vodiya-avtobusa"><img src="https://m.znaj.ua/sites/default/files/styles/news_425x245/public/media/news/2018/08/34/maxresdefault_1_0_2.jpg?itok=0Uf42DAC" width="425" height="245" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/world/perelomy-reber-ta-zabij-legen-velycheznyj-kamin-malo-ne-vbyv-vodiya-avtobusa">Переломи ребер та забій легень: величезний камінь мало не вбив водія автобуса
+</a></span> </div>
+<div class="bottom row views-fieldset" data-module="views_fieldsets">
+<div class="count pull-left row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-comment-count pull-left"><span class="field-content">0</span></div> <div class="views-field views-field-totalcount pull-right"><span class="field-content">0</span></div>
+</div>
+<div class="views-field views-field-created pull-right"><span class="field-content">22:25 25.08.</span></div>
+</div>
+<div class="views-field views-field-view-node"> <span class="field-content"><a href="/world/perelomy-reber-ta-zabij-legen-velycheznyj-kamin-malo-ne-vbyv-vodiya-avtobusa">Читати далі</a></span> </div> </div>
+</div>
+</div></div><div class="index-block-1"><div class="block-title"><h2>Політика</h2></div><div class="view view-frontpage-content-left view-id-frontpage_content_left view-display-id-block_4 view-dom-id-129813c0b730d21237222137e83795ba">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/politics/v-rosiyi-rozpovily-sho-zupynylo-putina-na-shlyahu-do-zahoplennya-ukrayiny"><img src="https://m.znaj.ua/sites/default/files/styles/news_425x245/public/media/news/2018/08/34/755229282446995.jpg?itok=hw7jt2V2" width="425" height="245" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/politics/v-rosiyi-rozpovily-sho-zupynylo-putina-na-shlyahu-do-zahoplennya-ukrayiny">В Росії розповіли, що зупинило Путіна на шляху до захоплення України</a></span> </div>
+<div class="bottom row views-fieldset" data-module="views_fieldsets">
+<div class="count pull-left row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-comment-count pull-left"><span class="field-content">0</span></div> <div class="views-field views-field-totalcount pull-right"><span class="field-content">0</span></div>
+</div>
+<div class="views-field views-field-created pull-right"><span class="field-content">04:18 26.08.</span></div>
+</div>
+<div class="views-field views-field-view-node"> <span class="field-content"><a href="/politics/v-rosiyi-rozpovily-sho-zupynylo-putina-na-shlyahu-do-zahoplennya-ukrayiny">Читати далі</a></span> </div> </div>
+</div>
+</div></div><div class="index-block-2"><div class="block-title"><h2>Події</h2></div><div class="view view-frontpage-content-left view-id-frontpage_content_left view-display-id-block_4 view-dom-id-c4cd110a17d896c6f42eda7366e461d5">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/events/grad-zi-snigom-v-karpatah-u-merezhi-zyavylosya-nove-video"><img src="https://m.znaj.ua/sites/default/files/styles/news_425x245/public/media/news/2018/08/34/grad3.jpg?itok=SfU-cCNv" width="425" height="245" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/events/grad-zi-snigom-v-karpatah-u-merezhi-zyavylosya-nove-video">Град зі снігом в Карпатах: у мережі з&#039;явилося нове відео </a></span> </div>
+<div class="bottom row views-fieldset" data-module="views_fieldsets">
+<div class="count pull-left row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-comment-count pull-left"><span class="field-content">0</span></div> <div class="views-field views-field-totalcount pull-right"><span class="field-content">0</span></div>
+</div>
+<div class="views-field views-field-created pull-right"><span class="field-content">17:55 25.08.</span></div>
+</div>
+<div class="views-field views-field-view-node"> <span class="field-content"><a href="/events/grad-zi-snigom-v-karpatah-u-merezhi-zyavylosya-nove-video">Читати далі</a></span> </div> </div>
+</div>
+</div></div><div class="index-block-3"><div class="block-title"><h2>Світ</h2></div><div class="view view-frontpage-content-left view-id-frontpage_content_left view-display-id-block_4 view-dom-id-b1134fd599ceb46859d00f49534fa0b5">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/world/mentotraktor-u-putina-pokazaly-davylku-dlya-lyudej-na-mityngah"><img src="https://m.znaj.ua/sites/default/files/styles/news_425x245/public/media/news/2018/08/34/f_awmucgljcy5saxzlam91cm5hbc5jb20vexvyaxbhc2hvbg9rlzc2ntezos84oty3mtkylzg5njcxotjfb3jpz2luywwuanbnp19fawq9mtewnta3.jpeg?itok=TEYwDXkt" width="425" height="245" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/world/mentotraktor-u-putina-pokazaly-davylku-dlya-lyudej-na-mityngah">Ментотрактор: у Путіна показали давилку для людей на мітингах</a></span> </div>
+<div class="bottom row views-fieldset" data-module="views_fieldsets">
+<div class="count pull-left row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-comment-count pull-left"><span class="field-content">0</span></div> <div class="views-field views-field-totalcount pull-right"><span class="field-content">0</span></div>
+</div>
+<div class="views-field views-field-created pull-right"><span class="field-content">05:02 26.08.</span></div>
+</div>
+<div class="views-field views-field-view-node"> <span class="field-content"><a href="/world/mentotraktor-u-putina-pokazaly-davylku-dlya-lyudej-na-mityngah">Читати далі</a></span> </div> </div>
+</div>
+</div></div><div class="index-block-4"><div class="block-title"><h2>Наука</h2></div><div class="view view-frontpage-content-left view-id-frontpage_content_left view-display-id-block_4 view-dom-id-56e9f3c33f683162ff4bd5d04cdb819f">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/science/na-uzberezhzhi-zasikly-hyzhaka-lyudozhera-vy-budete-zdyvovani"><img src="https://m.znaj.ua/sites/default/files/styles/news_425x245/public/media/news/2018/08/34/1528266783_ir.jpg?itok=MoP-hBjF" width="425" height="245" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/science/na-uzberezhzhi-zasikly-hyzhaka-lyudozhera-vy-budete-zdyvovani">На узбережжі засікли хижака-людожера. Ви будете здивовані
+</a></span> </div>
+<div class="bottom row views-fieldset" data-module="views_fieldsets">
+<div class="count pull-left row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-comment-count pull-left"><span class="field-content">0</span></div> <div class="views-field views-field-totalcount pull-right"><span class="field-content">0</span></div>
+</div>
+<div class="views-field views-field-created pull-right"><span class="field-content">07:19 26.08.</span></div>
+</div>
+<div class="views-field views-field-view-node"> <span class="field-content"><a href="/science/na-uzberezhzhi-zasikly-hyzhaka-lyudozhera-vy-budete-zdyvovani">Читати далі</a></span> </div> </div>
+</div>
+</div></div><div class="index-block-5"><div class="block-title"><h2>Тести</h2></div><div class="view view-frontpage-content-left view-id-frontpage_content_left view-display-id-block_4 view-dom-id-132cb6d5c3e5b8d3ff8bbe066bc797e7">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/tests/vajnshtejn-chy-volochkova-chy-dobre-vy-znayete-sho-take-harassment"><img src="https://m.znaj.ua/sites/default/files/styles/news_425x245/public/media/news/2018/08/33/orig_936x526.jpg?itok=l-U-M0tT" width="425" height="245" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/tests/vajnshtejn-chy-volochkova-chy-dobre-vy-znayete-sho-take-harassment">Вайнштейн чи Волочкова: чи добре ви знаєте, що таке харассмент</a></span> </div>
+<div class="bottom row views-fieldset" data-module="views_fieldsets">
+<div class="count pull-left row views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-comment-count pull-left"><span class="field-content">0</span></div> <div class="views-field views-field-totalcount pull-right"><span class="field-content">0</span></div>
+</div>
+<div class="views-field views-field-created pull-right"><span class="field-content">12:30 15.08.</span></div>
+</div>
+<div class="views-field views-field-view-node"> <span class="field-content"><a href="/tests/vajnshtejn-chy-volochkova-chy-dobre-vy-znayete-sho-take-harassment">Читати далі</a></span> </div> </div>
+</div>
+</div></div></div>
+</section> 
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="sport_content_region">
+<div class="container">
+<div class="region region-sport-content">
+<section id="block-custom-znaj-sport-frontpage-block-sport-block" class="block block-custom-znaj-sport clearfix">
+<h2 class="block-title"><a href="https://sport.znaj.ua" target="_blank">Спорт</a></h2>
+<div class="link-to-sport"><a href="https://sport.znaj.ua/">Читати далі</a></div><div class="view view-main-site-news view-id-main_site_news view-display-id-block_1 view-dom-id-f1f8db9cb99171d75488fc9af404447c">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="image views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category"><div class="field-content">Бокс</div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="https://sport.znaj.ua/boxing/uord-rozpoviv-pro-povernennya-v-boks"><img src="https://sport.znaj.ua/sites/znaj.sport/files/styles/top_main_news__0_537_800_430/public/media/news/2018/08/34/andre-ward.jpg?itok=Ei0lGhXD" width="800" height="430" alt="" /></a></div></div>
+</div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="https://sport.znaj.ua/boxing/uord-rozpoviv-pro-povernennya-v-boks" target="_blank">Уорд розповів про повернення в бокс</a></span> </div>
+<div class="views-field views-field-field-announcement"> <div class="field-content">Андре Уорд поділився планами на майбутнє</div> </div>
+<div class="time views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-created"><span class="field-content">18:54 25.08</span></div>
+</div>
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div class="image views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category"><div class="field-content">Формула 1</div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="https://sport.znaj.ua/formula-1/formula-1-vyznachyvsya-peremozhec-kvalifikaciyi-gp-belgiyi"><img src="https://sport.znaj.ua/sites/znaj.sport/files/styles/top_main_news__0_537_470_252/public/media/news/2018/08/34/crop_61.jpg?itok=fEcDUwIR" width="470" height="252" alt="" /></a></div></div>
+</div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="https://sport.znaj.ua/formula-1/formula-1-vyznachyvsya-peremozhec-kvalifikaciyi-gp-belgiyi" target="_blank">Формула-1: визначився переможець кваліфікації ГП Бельгії</a></span> </div>
+<div class="views-field views-field-field-announcement"> <div class="field-content">Поул завоював пілот Mercedes Льюїс Хемілтон</div> </div>
+<div class="time views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-created"><span class="field-content">18:02 25.08</span></div>
+</div>
+</div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="image views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category"><div class="field-content">Теніс</div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="https://sport.znaj.ua/tennis/vilyams-zagovoryla-pro-zavershennya-karyery"><img src="https://sport.znaj.ua/sites/znaj.sport/files/styles/top_main_news__0_537_470_252/public/media/news/2018/08/34/serena.jpg?itok=zU_WvcEP" width="470" height="252" alt="" /></a></div></div>
+</div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="https://sport.znaj.ua/tennis/vilyams-zagovoryla-pro-zavershennya-karyery" target="_blank">Вільямс заговорила про завершення кар&#039;єри</a></span> </div>
+<div class="views-field views-field-field-announcement"> <div class="field-content">Серена Вільямс поділилася планами на майбутнє</div> </div>
+<div class="time views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-created"><span class="field-content">17:37 25.08</span></div>
+</div>
+</div>
+<div class="views-row views-row-4 views-row-even">
+<div class="image views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category"><div class="field-content">Бокс</div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="https://sport.znaj.ua/boxing/uajlder-rozpoviv-chomu-bij-z-dzhoshua-ne-vidbudetsya"><img src="https://sport.znaj.ua/sites/znaj.sport/files/styles/top_main_news__0_537_260x140/public/media/news/2018/08/34/uaylder_5.jpg?itok=T2YfbaNV" width="260" height="140" alt="" /></a></div></div>
+</div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="https://sport.znaj.ua/boxing/uajlder-rozpoviv-chomu-bij-z-dzhoshua-ne-vidbudetsya" target="_blank">Уайлдер розповів, чому бій з Джошуа не відбудеться</a></span> </div>
+<div class="views-field views-field-field-announcement"> <div class="field-content">Бій Деонтея Уайлдера проти Ентоні Джошуа не відбудеться</div> </div>
+<div class="time views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-created"><span class="field-content">16:59 25.08</span></div>
+</div>
+</div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="image views-fieldset" data-module="views_fieldsets">
+ <div class="views-field views-field-field-category"><div class="field-content">Бокс</div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="https://sport.znaj.ua/boxing/na-konu-boyu-alvares-golovkin-bude-specialnyj-poyas-foto"><img src="https://sport.znaj.ua/sites/znaj.sport/files/styles/top_main_news__0_537_260x140/public/media/news/2018/08/34/1_134_5.jpg?itok=KwsaBB4X" width="260" height="140" alt="" /></a></div></div>
+</div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="https://sport.znaj.ua/boxing/na-konu-boyu-alvares-golovkin-bude-specialnyj-poyas-foto" target="_blank">На кону бою Альварес - Головкін буде спеціальний пояс: фото</a></span> </div>
+<div class="views-field views-field-field-announcement"> <div class="field-content">Геннадій Головкін і Сауль Альварес проведуть реванш 15 вересня</div> </div>
+<div class="time views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-created"><span class="field-content">16:33 25.08</span></div>
+</div>
+</div>
+<div class="views-row views-row-6 views-row-even views-row-last">
+<div class="image views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-field-category"><div class="field-content">Футбол</div></div> <div class="views-field views-field-field-image"><div class="field-content"><a href="https://sport.znaj.ua/football/zinchenko-vlashtuvav-bijku-na-trenuvanni-video"><img src="https://sport.znaj.ua/sites/znaj.sport/files/styles/top_main_news__0_537_260x140/public/media/news/2018/08/34/zynchenko.jpg?itok=2Y3vwSyK" width="260" height="140" alt="" /></a></div></div>
+</div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="https://sport.znaj.ua/football/zinchenko-vlashtuvav-bijku-na-trenuvanni-video" target="_blank">Зінченко влаштував бійку на тренуванні: відео</a></span> </div>
+<div class="views-field views-field-field-announcement"> <div class="field-content">Олександр Зінченко побився в стилі Mortal Kombat</div> </div>
+<div class="time views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-created"><span class="field-content">15:51 25.08</span></div>
+</div>
+</div>
+</div>
+</div>
+</section> 
+</div>
+</div>
+</div>
+<div class="container post_content_region">
+<div class="region region-post-content">
+<section id="block-views-show-business-block" class="block block-views clearfix">
+<h2 class="block-title">Шоу-бізнес</h2>
+<div class="view view-show-business view-id-show_business view-display-id-block view-dom-id-ffa7859af3efdb62ac5749fe878da1d2">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/show-business/mama-u-pyatdesyat-vagitna-naomi-kempbell-shokuvala-fanativ"><img src="https://znaj.ua/sites/default/files/styles/312x578/public/media/news/2018/08/34/naomy.jpg?itok=ZlO1-uhV" width="312" height="578" alt="" /></a></div> </div>
+<div class="wrapper-content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/show-business/mama-u-pyatdesyat-vagitna-naomi-kempbell-shokuvala-fanativ">Мама у п’ятдесят? Вагітна Наомі Кемпбелл шокувала фанатів</a></span></div>
+<div class="wrapper-comments-date views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-comment-count"><span class="field-content">0</span></div> <div class="views-field views-field-totalcount"><span class="field-content">0</span></div> <div class="views-field views-field-created"><span class="field-content">06:38 26.08.18</span></div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/show-business/eks-via-gru-vitayut-z-pershym-nashadkom"><img src="https://znaj.ua/sites/default/files/styles/710x285/public/media/news/2018/08/34/4b53ae13659dc02641dcc6e0d3b63a6c.jpg?itok=7uG9aqa3" width="710" height="285" alt="" /></a></div> </div>
+<div class="wrapper-content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/show-business/eks-via-gru-vitayut-z-pershym-nashadkom">Екс-ВІА Гру вітають з першим нащадком
+</a></span></div>
+<div class="wrapper-comments-date views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-comment-count"><span class="field-content">0</span></div> <div class="views-field views-field-totalcount"><span class="field-content">0</span></div> <div class="views-field views-field-created"><span class="field-content">00:48 26.08.18</span></div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/show-business/ne-petrosyanom-yedynym-pidstarkuvatyj-vensan-kassel-rozpoviv-yak-poznajomyvsya-z-21-richnoyu-druzhynoyu"><img src="https://znaj.ua/sites/default/files/styles/362x280/public/media/news/2018/08/34/gettyimages-1022459998.jpg?itok=IOxyQ_gF" width="362" height="280" alt="" /></a></div> </div>
+<div class="wrapper-content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/show-business/ne-petrosyanom-yedynym-pidstarkuvatyj-vensan-kassel-rozpoviv-yak-poznajomyvsya-z-21-richnoyu-druzhynoyu">Не Петросяном єдиним: підстаркуватий Венсан Кассель розповів, як познайомився з 21-річною дружиною</a></span></div>
+<div class="wrapper-comments-date views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-comment-count"><span class="field-content">0</span></div> <div class="views-field views-field-totalcount"><span class="field-content">0</span></div> <div class="views-field views-field-created"><span class="field-content">23:19 25.08.18</span></div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/show-business/chervy-merci-i-pryvydy-imagine-dragons-pokazaly-svitu-krutyj-klip-v-styli-horor"><img src="https://znaj.ua/sites/default/files/styles/322x280/public/media/news/2018/08/34/dazgckfxuaecbat.jpg?itok=OJIJBbEY" width="322" height="280" alt="" /></a></div> </div>
+<div class="wrapper-content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/show-business/chervy-merci-i-pryvydy-imagine-dragons-pokazaly-svitu-krutyj-klip-v-styli-horor">Черви, мерці і привиди: Imagine Dragons показали світу крутий кліп в стилі хорор</a></span></div>
+<div class="wrapper-comments-date views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-comment-count"><span class="field-content">0</span></div> <div class="views-field views-field-totalcount"><span class="field-content">0</span></div> <div class="views-field views-field-created"><span class="field-content">22:16 25.08.18</span></div>
+</div>
+</div>
+</div>
+<div class="views-row views-row-5 views-row-odd views-row-last">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/show-business/timu-bertonu---60-5-krashyh-filmiv-majstra-bozhevillya"><img src="https://znaj.ua/sites/default/files/styles/285x575/public/media/news/2018/08/34/maxresdefault_3_8.jpg?itok=LUXCRZwW" width="285" height="575" alt="" /></a></div> </div>
+<div class="wrapper-content views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-title"><span class="field-content"><a href="/show-business/timu-bertonu---60-5-krashyh-filmiv-majstra-bozhevillya">Тіму Бертону - 60: 5 кращих фільмів майстра божевілля</a></span></div>
+<div class="wrapper-comments-date views-fieldset" data-module="views_fieldsets">
+<div class="views-field views-field-comment-count"><span class="field-content">0</span></div> <div class="views-field views-field-totalcount"><span class="field-content">0</span></div> <div class="views-field views-field-created"><span class="field-content">18:49 25.08.18</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section> 
+<section id="block-custom-block-clutch-import" class="block block-custom-block clearfix">
+<div class="ci-logo">
+<a href="https://clutch.net.ua/" target="_blank"> </a>
+</div>
+<div class="ci-line"><div class="ci__color-line"></div></div>
+<div class="ci-content">
+<div class="ci-item block-item-0">
+<div class="ci-item__image">
+<a href="https://clutch.ua/foodstyle/retseptyi/chernichnoe-varene-kak-prigotovit-idealnyj-superfud" style="background:url(https://clutch.ua/wp-content/uploads/2018/08/Blueberry-jam-fresh-blueberries-spoon_3840x2160-660x350.jpg) ;"> </a>
+</div>
+<div class="ci-item__title">
+<a href="https://clutch.ua/foodstyle/retseptyi/chernichnoe-varene-kak-prigotovit-idealnyj-superfud">Черничное варенье: как приготовить идеальный суперфуд</a>
+</div>
+</div>
+<div class="ci-item block-item-1">
+<div class="ci-item__image">
+<a href="https://clutch.ua/foodstyle/retseptyi/medovo-limonnaja-vatrushka-nash-otvet-amerikanskomu-chizkejku" style="background:url(https://clutch.ua/wp-content/uploads/2018/08/vatrushka-660x350.jpg) ;"> </a>
+</div>
+<div class="ci-item__title">
+<a href="https://clutch.ua/foodstyle/retseptyi/medovo-limonnaja-vatrushka-nash-otvet-amerikanskomu-chizkejku">Медово-лимонная ватрушка: наш ответ американскому чизкейку</a>
+</div>
+</div>
+<div class="ci-item block-item-2">
+<div class="ci-item__image">
+<a href="https://clutch.ua/astro/goroskop-na-cegodnja-26-avgusta" style="background:url(https://clutch.ua/wp-content/uploads/2018/08/06.10.14-42-660x350.jpg) ;"> </a>
+</div>
+<div class="ci-item__title">
+<a href="https://clutch.ua/astro/goroskop-na-cegodnja-26-avgusta">Гороскоп на cегодня — 26 августа</a>
+</div>
+</div>
+<div class="ci-item block-item-3">
+<div class="ci-item__image">
+<a href="https://clutch.ua/deti/razvitie/roditel-glavnyj-pochemu-nikogda-ne-nado-idti-na-povodu-u-rebenka" style="background:url(https://clutch.ua/wp-content/uploads/2018/08/picsea-424445-unsplash-660x350.jpg) ;"> </a>
+</div>
+<div class="ci-item__title">
+<a href="https://clutch.ua/deti/razvitie/roditel-glavnyj-pochemu-nikogda-ne-nado-idti-na-povodu-u-rebenka">Родитель — главный: почему никогда не надо идти на поводу у ребенка</a>
+</div>
+</div>
+<div class="ci-item block-item-4">
+<div class="ci-item__image">
+<a href="https://clutch.ua/zdorove/medosmotr/kakie-rastenija-nuzhno-vyrastit-v-dome-chtoby-spat-kak-mladenec" style="background:url(https://clutch.ua/wp-content/uploads/2018/08/29-17-660x350.jpg) ;"> </a>
+</div>
+<div class="ci-item__title">
+<a href="https://clutch.ua/zdorove/medosmotr/kakie-rastenija-nuzhno-vyrastit-v-dome-chtoby-spat-kak-mladenec">Какие растения нужно вырастить в доме, чтобы спать как младенец</a>
+</div>
+</div>
+<div class="ci-item block-item-5">
+<div class="ci-item__image">
+<a href="https://clutch.ua/zdorove/sport/samoe-jeffektivnoe-uprazhnenie-dlja-myshc-zhivota-4-varianta-vypolnenija" style="background:url(https://clutch.ua/wp-content/uploads/2018/08/24-17-660x350.jpg) ;"> </a>
+</div>
+<div class="ci-item__title">
+<a href="https://clutch.ua/zdorove/sport/samoe-jeffektivnoe-uprazhnenie-dlja-myshc-zhivota-4-varianta-vypolnenija">Самое эффективное упражнение для мышц живота: 4 варианта выполнения</a>
+</div>
+</div>
+</div>
+</section> 
+</div>
+</div>
+<footer class="footer">
+<div id="footer_region" class="container footer_region">
+<div class="region region-footer">
+<section id="block-locale-language--2" class="block block-locale col-sm-3 clearfix">
+<h2 class="block-title">Мова</h2>
+<ul class="language-switcher-locale-url"><li class="uk first active"><a href="/" class="language-link active" xml:lang="uk" hreflang="uk">Укр</a></li>
+<li class="ru last"><a href="/ru" class="language-link" xml:lang="ru" hreflang="ru">Рус</a></li>
+</ul>
+</section> 
+<section id="block-panels-mini-header-info-block" class="block block-panels-mini clearfix">
+<div class="two-50 at-panel panel-display clearfix" id="mini-panel-header_info_block">
+<div class="region region-two-50-top region-conditional-stack">
+<div class="region-inner clearfix">
+<div class="panel-pane pane-block pane-custom-exchange-rates-exchange-rates pane-custom-exchange-rates">
+<div class="pane-content">
+<div class="exchange-rates">
+</div>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-page-logo">
+<div class="pane-content">
+<a href="/" rel="home" id="logo" title="Головна"><img src="https://znaj.ua/sites/all/themes/custom_bootstrap/logo.png" alt="Головна" /></a> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-custom-exchange-rates-sport-logo pane-custom-exchange-rates">
+<div class="pane-content">
+<a href="https://sport.znaj.ua/?utm_source=znajua&utm_medium=logo&utm_campaign=header_znajua" rel="sport home" id="logo-sport" title="ZNAJ.SPORT">
+<img src="/sites/all/modules/custom/custom_exchange_rates/images/logo-sport.png" alt="Спортивні">
+</a>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-social-media-links-social-media-links pane-social-media-links">
+<div class="pane-content">
+<ul class="social-media-links platforms inline horizontal"><li class="facebook first"><a href="https://www.facebook.com/znaj.ua" title="Facebook"><img src="https://znaj.ua/sites/all/modules/contrib/social_media_links/libraries/elegantthemes/PNG/facebook.png" alt="Facebook значок" /></a></li><li class="rss"><a href="https://znaj.ua/rss/rss.xml" title="RSS"><img src="https://znaj.ua/sites/all/modules/contrib/social_media_links/libraries/elegantthemes/PNG/rss.png" alt="RSS значок" /></a></li><li class="telegram"><a href="https://t.me/znajua" title="Telegram"><img src="https://znaj.ua/sites/all/themes/custom_bootstrap/images/telegram.png" alt="Telegram значок" /></a></li><li class="instagram"><a href="https://www.instagram.com/znajua/?hl=ru" title="Instagram"><img src="https://znaj.ua/sites/all/modules/contrib/social_media_links/libraries/elegantthemes/PNG/instagram.png" alt="Instagram значок" /></a></li><li class="viber last"><a href="https://viber.com/znajua" title="Viber"><img src="https://znaj.ua/sites/all/themes/custom_bootstrap/images/viber.png" alt="Viber значок" /></a></li></ul> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-views-exp-search-api-page pane-views">
+<div class="pane-content">
+<form action="/search" method="get" id="views-exposed-form-search-api-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+<div class="views-exposed-widgets clearfix">
+<div id="edit-search-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+<div class="views-widget">
+<div class="form-type-textfield form-item-search form-item form-group">
+<input class="form-control form-text" type="text" id="edit-search" name="search" value="" size="30" maxlength="128" />
+</div>
+</div>
+</div>
+<div class="views-exposed-widget views-submit-button">
+<button class="btn btn-info form-submit" id="edit-submit-search-api" name="" value="Застосувати" type="submit">Застосувати</button>
+</div>
+</div>
+</div>
+</div></form> </div>
+</div>
+</div>
+</div>
+<div class="region region-two-50-first">
+<div class="region-inner clearfix">
+</div>
+</div>
+<div class="region region-two-50-second">
+<div class="region-inner clearfix">
+</div>
+</div>
+<div class="region region-two-50-bottom region-conditional-stack">
+<div class="region-inner clearfix">
+<div class="panel-pane pane-block pane-menu-block-4 pane-menu-block">
+<div class="pane-content">
+<div class="menu-block-wrapper menu-block-4 menu-name-main-menu parent-mlid-0 menu-level-1">
+<ul class="menu nav"><li class="first leaf active menu-mlid-3684 active"><a href="/" class="active">Головна</a></li>
+<li class="leaf menu-mlid-3685"><a href="/news/politics">Політика</a></li>
+<li class="leaf menu-mlid-3686"><a href="/news/society">Суспільство</a></li>
+<li class="leaf menu-mlid-3687"><a href="/news/capital">Столиця</a></li>
+<li class="leaf menu-mlid-3691"><a href="/news/events">Події</a></li>
+<li class="leaf menu-mlid-3692"><a href="/news/popcorn">Попкорн</a></li>
+<li class="leaf menu-mlid-3688"><a href="/news/world">Світ</a></li>
+<li class="leaf menu-mlid-3690"><a href="/news/show-business">Шоу-бізнес</a></li>
+<li class="leaf menu-mlid-3693"><a href="/news/science">Наука</a></li>
+<li class="last expanded active menu-mlid-3694 show-more dropdown active" id="show-more"><a href="/" class="dropdown-toggle active">Інше <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-mlid-3695"><a href="/news/editor-choice">Вибір редакції</a></li>
+<li class="leaf menu-mlid-3696"><a href="/news/interview">Інтерв&#039;ю</a></li>
+<li class="leaf menu-mlid-3697"><a href="/news/exclusive">Ексклюзив</a></li>
+<li class="leaf menu-mlid-3698"><a href="/news/techno">Техно</a></li>
+<li class="leaf menu-mlid-3699"><a href="/news/history">Історія</a></li>
+<li class="leaf menu-mlid-3700"><a href="/news/investigation">Розслідування</a></li>
+<li class="leaf menu-mlid-5598"><a href="/news/tests">Тести</a></li>
+<li class="last leaf menu-mlid-6161"><a href="/contacts">Контакти</a></li>
+</ul></li>
+</ul></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section> 
+</div>
+</div>
+<div class="container footer-bottom">
+<div class="col-sm-3">
+<div class="region region-footer-right">
+<section id="block-custom-block-footer-block" class="block block-custom-block clearfix">
+<div class="content-block">
+<div class="date">
+© 2015 - 2018 <a href="/znaj.ua">znaj.ua</a> </div>
+<div class="description">
+Усі права захищені. Матеріали із сайта «Znaj.ua» можуть використовуватися іншими користувачами безкоштовно з обов’язковим активним гіперпосиланням на znaj.ua, розміщеним в першому абзаці матеріалу. Також активне гіперпосилання на сайт znaj.ua необхідне при використанні частини матеріалу.
+Відповідальність за зміст рекламних матеріалів несе рекламодавець.
+Думка авторів матеріалів може не збігатися з позицією редакції. </div>
+<div class="bigmir-counter">
+
+<script type="text/javascript" language="javascript">
+            function BM_Draw(oBM_STAT){
+                document.write('<table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tr><td><div style="margin:0px;padding:0px;font-size:1px;width:88px;"><div style="background:url(\'//i.bigmir.net/cnt/samples/diagonal/b58_top.gif\') no-repeat bottom;"> </div><div style="font:10px Tahoma;background:url(\'//i.bigmir.net/cnt/samples/diagonal/b58_center.gif\');"><div style="text-align:center;"><a href="http://www.bigmir.net/" target="_blank" style="color:#0000ab;text-decoration:none;font:10px Tahoma;">bigmir<span style="color:#ff0000;">)</span>net</a></div><div style="margin-top:3px;padding: 0px 6px 0px 6px;color:#003596;"><div style="float:left;font:10px Tahoma;">'+oBM_STAT.hosts+'</div><div style="float:right;font:10px Tahoma;">'+oBM_STAT.hits+'</div></div><br clear="all"/></div><div style="background:url(\'//i.bigmir.net/cnt/samples/diagonal/b58_bottom.gif\') no-repeat top;"> </div></div></td></tr></table>');
+            }
+        </script>
+<script type="text/javascript" language="javascript">
+            bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:16952728,s:16952728,t:0,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+            for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+            try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+            else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
+            try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
+            try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
+            r=bmD.referrer.replace(/^w+:\/\//,'');if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r).slice(0,400);bm.v^=r.length}
+            bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+            bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="//c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>');
+        </script>
+<noscript>
+            <a href="http://www.bigmir.net/" target="_blank"><img src="//c.bigmir.net/?v16952728&s16952728&t2" width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" border="0" /></a>
+        </noscript>
+
+</div>
+</div>
+</section> 
+</div>
+</div>
+</div>
+</footer>
+<div class="geymbius"><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = 'AjrrCS8K7F_6f3.GM5ZW67S4rocKK1uFgzX4ielSjOb.37';
+// lines below shouldn't be edited
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');gt.setAttribute('defer','defer'); gt.src=l+'://gaua.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+//--><!]]>
+</script></div><script src="https://znaj.ua/sites/default/files/js/js_uguqM02FE31BLaa4XUnoC6LfOFhlXE1L5rP0YW_L_no.js"></script>
+<script src="https://znaj.ua/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+
+<noscript>
+  <img
+    src="//pa.tns-ua.com/bug/pic.gif?siteid=znaj.ua"
+    alt=""
+  />
+</noscript>
+<script language="javascript">
+  var tns_already, tnscm_adn = tnscm_adn || [], currentProtocol = ("https:" == location.protocol ? "https:" : "http:");
+  (function(c,m){if(c.indexOf&&c.indexOf(m)<0){c.unshift(m);}}(tnscm_adn,"inline_cm"));
+  if ("undefined"==typeof(tns_already) || null==tns_already || 0==tns_already)
+  {
+    tns_already=1;
+    var i=new Image();
+    i.src=currentProtocol + "//pa.tns-ua.com/bug/pic.gif?siteid=znaj.ua&j=1&nocache="+Math.random();
+
+    (function(){
+      var p=document.getElementsByTagName('head')[0];
+      var s=document.createElement("script");
+      s.type="text/javascript";
+      s.src= currentProtocol + "//source.mmi.bemobile.ua/cm/cm.js";
+      s.async = true;
+      p.appendChild(s);
+    })();
+  };
+</script>
+
+<script>
+    /*
+     *  Add title to node news page
+     */
+    (function ($) {
+        $(function () {
+            var links = $('a');
+            var ret_all = '';
+//            debugger;
+            var body = $('body');
+            var body_classes = body.attr('class');
+            var categories_reg = /\bpage-news-([\w-]*)\b/;
+            var news_reg = /\bnode-type-news\b/;
+            var front_reg = /\sfront\b/;
+            var domain_reg = /\bdomain-([\w-]*)\b/;
+
+            var path;
+            if (path = body_classes.match(front_reg)) {
+                ret_all += path[0];
+            } else if (path = body_classes.match(categories_reg)) {
+                ret_all += 'ct_' + path[1];
+            } else if (path = body_classes.match(news_reg)) {
+                ret_all += 'article';
+            } else {
+                ret_all += 'default';
+            }
+            ret_all +='_';
+            if (path = body_classes.match(domain_reg)) {
+                ret_all += 'dm-' + path[1];
+            } else {
+                ret_all += 'dm-znaj-ua';
+            }
+
+
+            var lang = ($('html').attr('lang') === 'ru') ? 'ru' : 'uk';
+
+            var views = $('.view');
+
+            var blocks = $('*[id^="block-"]');
+
+            blocks.each(function (item) {
+                var block = $(this);
+             //   debugger;
+                if (block.find('[id^="block-"]').length || block.find('.view').length){
+                    return;
+                }
+                var block_id = block.attr('id');
+                var a = block.find(' a');
+                a.each(function (item) {
+                    var link = $(this);
+                    link.addClass(ret_all + '_'+block_id + '_' + lang);
+                });
+            });
+
+            views.each(function (item) {
+
+                var view = $(this);
+                var classNames = view.attr('class');
+                var view_id_reg = /view-id-([\w-]*)\b/;
+                var view_id, view_display_id;
+                var view_display_id_reg = /view-display-id-([\w-]*)\b/;
+                var a = view.find('a');
+                var ret;
+                if ((view_id = classNames.match(view_id_reg)) && (view_display_id = classNames.match(view_display_id_reg))) {
+                    ret = '_vid_' + view_id[1] + '_vdspid_' + view_display_id[1];
+                    is_founded = true;
+                }
+                a.each(function (item) {
+
+                    var link = $(this);
+                    link.addClass(ret_all + ret + '_' + lang);
+                });
+            });
+        });
+    })(jQuery);
+</script>
+
+<script>
+    (function(a,i){
+        var s=a.createElement('script');
+        s.src=i+'?'+Math.ceil(Date.now()/10000000);
+        a.getElementsByTagName('head')[0].appendChild(s);
+    })(document,'https://aixcdn.com/client.js');
+</script>
+
+
+<script type="text/javascript" src="//a4p.adpartner.pro/media?site_id=165&unit_id=1581"></script>
+
+
+<div class="ai-placement" data-id="194"></div></body>
+</html>
